@@ -1,4 +1,5 @@
 .Rhistory
 /.Rproj.user
 /dist/*
+!dist/.gitkeep
 *.Rproj
