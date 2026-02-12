@@ -8,5 +8,5 @@ Make it easy to find irregularities and ensure all subscriptions are up to date!
 4) Double click the ingram-invoice-compare/Shiny/Run.bat file to run the app.
    -    Tip: Create a shortcut to point to this file to easily start the app.
    -    The first time the app runs it will install all neccesary R packages and might take a while.
-   -    To access the app browse "https://{ip-address}:3839".
+   -    To access the app browse "http://{ip-address}:3839".
 
