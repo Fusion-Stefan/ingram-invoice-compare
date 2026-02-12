@@ -1,0 +1,434 @@
+Reseller BCN,Reseller name,Reseller PO Number,ApsUUID,Subscription ID,Subscription name,Status,Start date,Renewal date,Expiration date,Subscription period,Billing period,EndCustomerAccountID,"EndCustomerName ",Quantity
+212955,Fusion Tech,,c1de6c15-cd56-4ebe-be89-db6b9f048ccf,1047819,Office 365 Business Essentials (Monthly Pre-Paid),TERMINATED,30/05/2018,,30/05/2020,Annually,Monthly,1200029240,AB Electrical,21
+212955,Fusion Tech,,bb839fb7-f155-4a91-aabf-3042043fb703,1047820,Office 365 Business Premium (Monthly Pre-Paid),TERMINATED,30/05/2018,,30/05/2020,Annually,Monthly,1200029240,AB Electrical,3
+212955,Fusion Tech,73184,e2125439-1cd3-4b98-a0b8-d366e69c16a9,1470094,Microsoft Entra ID P2 (NCE COM MTH),ACTIVE,01/02/2026,28/02/2026,01/03/2026,Monthly,Monthly,1200177389,ACH CONSULTING,1
+212955,Fusion Tech,73184,ecc18c4e-3f5e-4979-a93f-78cdcd0da4a9,1470098,Exchange Online (Plan 1) (NCE COM MTH),ACTIVE,01/02/2026,28/02/2026,01/03/2026,Monthly,Monthly,1200177389,ACH CONSULTING,1
+212955,Fusion Tech,73184,57565b56-ed45-4ffc-840b-6269d9d0c2c5,1470092,Exchange Online (Plan 1) (NCE COM MTH),ACTIVE,01/02/2026,28/02/2026,01/03/2026,Monthly,Monthly,1200177389,ACH CONSULTING,1
+212955,Fusion Tech,73186,ce797065-7cfc-4d73-91a6-7739f6895b8b,1470100,Microsoft Entra ID P2 (NCE COM MTH),ACTIVE,01/02/2026,28/02/2026,01/03/2026,Monthly,Monthly,1200177389,ACH CONSULTING,1
+212955,Fusion Tech,73184,b85fedf7-fcd3-4d93-bc20-7c84ef6d28db,1470093,Microsoft Defender Suite (NCE COM MTH),PENDING,,,,Monthly,Monthly,1200177389,ACH CONSULTING,1
+212955,Fusion Tech,72600,979376eb-75e0-49d8-bcba-683f9836f3ad,1227241,Power BI Pro (NCE COM MTH),ACTIVE,29/09/2022,28/09/2026,29/09/2026,Annually,Monthly,1200023031,ACH Consulting LTD,2
+212955,Fusion Tech,,f3185571-7f94-4044-9759-114ff302bbe8,1312995,Microsoft Entra ID P2 (NCE COM MTH),TERMINATED,26/10/2023,,26/05/2024,Monthly,Monthly,1200023031,ACH Consulting LTD,1
+212955,Fusion Tech,72601,ec17c6a9-88cb-457a-96f6-44c87e400eac,1386060,Microsoft 365 Business Basic (NCE COM MTH),ACTIVE,15/10/2024,14/10/2026,15/10/2026,Annually,Monthly,1200023031,ACH Consulting LTD,3
+212955,Fusion Tech,73161,0615d2e2-50c0-4c39-9f44-6695af6a8edf,1370306,Microsoft 365 Business Standard (NCE COM MTH),ACTIVE,05/08/2024,04/08/2026,05/08/2026,Annually,Monthly,1200023031,ACH Consulting LTD,56
+212955,Fusion Tech,,08b80b68-9888-4577-98e0-b191fe208e41,1124807,Azure Active Directory Premium P1 (Monthly Pre-Paid),TERMINATED,08/10/2020,06/10/2021,08/10/2021,Annually,Monthly,1200023031,ACH Consulting LTD,1
+212955,Fusion Tech,,8dcdb39e-7fd0-49bb-99f4-3cc6a36a4a7b,1328546,Project Plan 3 (NCE COM MTH),ACTIVE,25/01/2024,24/02/2026,25/02/2026,Monthly,Monthly,1200023031,ACH Consulting LTD,1
+212955,Fusion Tech,,7e88e222-51f3-4f97-b083-c64a38d7445a,1115514,Microsoft 365 Business Standard (Monthly Pre-Paid),TERMINATED,31/08/2020,29/08/2024,31/08/2024,Annually,Monthly,1200023031,ACH Consulting LTD,45
+212955,Fusion Tech,,3948e010-3a7b-4074-a042-d2d18117e4d7,1036242,Office 365 Business Essentials (Monthly Pre-Paid),TERMINATED,08/11/2017,06/11/2024,08/11/2024,Annually,Monthly,1200023031,ACH Consulting LTD,2
+212955,Fusion Tech,,8c2096f0-c7d2-4249-a2ea-4eec002e0f63,1104401,Dropbox Biz: Standard - 3 licenses included (30 day trial),TERMINATED,,,,30 DAYS,Monthly,1200046289,APF,0
+212955,Fusion Tech,APV041205,39eafc27-e8e3-4708-9900-68404e2c291a,1462629,Planner and Project Plan 3 (NCE COM MTH),ACTIVE,04/12/2025,03/03/2026,04/03/2026,Monthly,Monthly,1200046289,APF,1
+212955,Fusion Tech,,e1d83934-0c89-49f1-8d83-8e18ff106342,1112061,Project Plan 3 (Monthly Pre-Paid),TERMINATED,07/08/2020,,07/08/2024,Annually,Monthly,1200046289,APF,1
+212955,Fusion Tech,,daca6555-7ef6-4e33-b50f-841e3ba58ec4,1105131,Dropbox Biz: Standard - 3 licenses included (Monthly),TERMINATED,03/06/2020,,03/07/2020,30 DAYS,Monthly,1200046289,APF,6
+212955,Fusion Tech,,105f35c1-a684-41e2-9448-f5766a98fbf1,1383128,Microsoft 365 Business Standard (NCE COM MTH),TERMINATED,30/09/2024,29/09/2025,30/09/2025,Annually,Monthly,1200046289,APF,8
+212955,Fusion Tech,,94d7bf25-1c8f-4019-810a-c860caa3d04e,1377924,Project Plan 3 (NCE COM MTH),TERMINATED,16/09/2024,15/08/2025,16/08/2025,Monthly,Monthly,1200046289,APF,1
+212955,Fusion Tech,,8dbab52c-0368-4bd2-9cd4-0509a21234f0,1383480,Microsoft 365 Business Standard (NCE COM MTH),ACTIVE,01/10/2024,28/02/2026,01/03/2026,Monthly,Monthly,1200046289,APF,8
+212955,Fusion Tech,,97f2dda6-ae2c-4332-86da-9513a1fd9296,1109159,Dropbox Biz: Standard - 3 licenses included (Annual/Monthly),ACTIVE,13/07/2020,12/07/2026,13/07/2026,Annually,Monthly,1200046289,APF,7
+212955,Fusion Tech,,0f256cee-ba8c-420d-b4d0-327b65a3caa5,1085816,Office 365 Business Premium (Monthly Pre-Paid),TERMINATED,24/10/2019,,24/10/2024,Annually,Monthly,1200046289,APF,8
+212955,Fusion Tech,,6582a9fe-e897-44cd-8d48-c24c83936a25,1277437,Exchange Online (Plan 1) (NCE COM ANN),TERMINATED,30/05/2023,,30/05/2024,Annually,Annually,1200113584,Accountant On Site Ltd,1
+212955,Fusion Tech,,cb6425b4-be0c-4a61-b4fb-32265123f375,1262960,Exchange Online (Plan 1) (NCE COM MTH),TERMINATED,30/03/2023,,30/05/2023,Monthly,Monthly,1200113584,Accountant On Site Ltd,1
+212955,Fusion Tech,,499dde30-7bfb-4018-bc88-31a5502b4e71,1322976,Microsoft 365 Business Basic (NCE COM MTH),TERMINATED,19/12/2023,,19/12/2024,Annually,Monthly,1200036951,Acto Agriculture,3
+212955,Fusion Tech,,5addcd93-3594-4202-ba00-ffdcac40d3fb,1268066,Windows Server 2022 Remote Desktop Services - 1 Device CAL (NCE COM BAS PER 1TM),ACTIVE,28/04/2023,,28/04/2033,Annually,Annually,1200036951,Acto Agriculture,10
+212955,Fusion Tech,,985ddf81-a097-42ef-be22-0fc1bfb3ba2a,1323007,Microsoft 365 Business Standard (NCE COM MTH),TERMINATED,19/12/2023,,19/12/2024,Annually,Monthly,1200036951,Acto Agriculture,9
+212955,Fusion Tech,73051,4175ffd8-d173-4610-acd7-dd541849ee49,1454783,Microsoft Entra Suite Add-on for Microsoft Entra ID P2 (NCE COM MTH),TERMINATED,04/11/2025,03/12/2025,04/12/2025,Monthly,Monthly,1200036951,Acto Agriculture,1
+212955,Fusion Tech,73054,62743406-fac7-45cb-8dfe-637504325414,1454852,Microsoft Entra ID P1 (NCE COM MTH),ACTIVE,04/11/2025,03/03/2026,04/03/2026,Monthly,Monthly,1200036951,Acto Agriculture,1
+212955,Fusion Tech,ACTO201224,ef11ae44-8fd1-4549-81ed-273785823edc,1398510,Microsoft 365 Business Basic (NCE COM MTH),ACTIVE,20/12/2024,19/12/2026,20/12/2026,Annually,Monthly,1200036951,Acto Agriculture,3
+212955,Fusion Tech,ACTO201224,4ea8b250-cf94-4340-85a3-ee3a7a755a60,1398509,Microsoft 365 Business Standard (NCE COM MTH),ACTIVE,20/12/2024,19/12/2026,20/12/2026,Annually,Monthly,1200036951,Acto Agriculture,9
+212955,Fusion Tech,,11b3e8af-c30b-4e7c-b250-3ffbfed6a7d2,1064681,Office 365 Business Premium (Monthly Pre-Paid),TERMINATED,16/01/2019,14/01/2024,16/01/2024,Annually,Monthly,1200036951,Acto Agriculture,9
+212955,Fusion Tech,,2ca3f70f-51cb-481d-b8fe-b1421dd1518d,1064680,Office 365 Business Essentials (Monthly Pre-Paid),TERMINATED,16/01/2019,14/01/2024,16/01/2024,Annually,Monthly,1200036951,Acto Agriculture,3
+212955,Fusion Tech,,dbb92d28-2141-497e-9f82-91a00acb3a2d,1134138,Microsoft 365 Business Basic (CSP COM 1YR MTH),TERMINATED,14/01/2021,,14/01/2024,Annually,Monthly,1200078529,Agru Hurner,10
+212955,Fusion Tech,45669,836caa91-ff0c-44ef-ba12-842dc8d0843f,1325930,Microsoft 365 Business Basic (NCE COM MTH),ACTIVE,10/01/2024,,09/01/2027,Annually,Monthly,1200078529,Agru Hurner,13
+212955,Fusion Tech,ALLSTAR040226,acccf812-56ce-4688-9af9-d376fa20a12d,1470917,Microsoft 365 Apps for business (NCE COM ANN),ACTIVE,03/02/2026,,03/02/2027,Annually,Annually,1200177608,All Star Plumbing,1
+212955,Fusion Tech,72517,b28b32c6-0847-426f-8a3a-989e7cf635ca,1323003,Microsoft 365 Business Standard (NCE COM MTH),TERMINATED,19/12/2023,18/12/2025,19/12/2025,Annually,Monthly,1200036867,AllCard Services,7
+212955,Fusion Tech,72521,db037b91-7800-4090-9d5a-11de1928ddd8,1398372,Microsoft 365 Business Standard (NCE COM MTH),ACTIVE,19/12/2024,18/02/2026,19/02/2026,Monthly,Monthly,1200036867,AllCard Services,7
+212955,Fusion Tech,,3752cb89-0fd7-4cc4-8b81-0ce8c15781aa,1064482,Office 365 Business Premium (Monthly Pre-Paid),TERMINATED,14/01/2019,12/01/2024,14/01/2024,Annually,Monthly,1200036867,AllCard Services,6
+212955,Fusion Tech,,d3172940-a446-4b85-a4a1-90bdd46de7f7,1064481,Office 365 Business Essentials (Monthly Pre-Paid),TERMINATED,14/01/2019,12/01/2024,14/01/2024,Annually,Monthly,1200036867,AllCard Services,3
+212955,Fusion Tech,,81004f84-8380-4ab8-b77c-b24821c3777d,1215446,Microsoft 365 Apps for business (NCE COM ANN),TERMINATED,25/07/2022,,25/07/2023,Annually,Annually,1200082620,Anytime Fitness,1
+212955,Fusion Tech,,3cafe2a1-fc5e-406e-8e85-6d7bea38d279,1144773,Microsoft 365 Apps for business (CSP COM 1YR ANN),TERMINATED,06/05/2021,,06/05/2022,Annually,Annually,1200082620,Anytime Fitness,1
+212955,Fusion Tech,,7c2ebe04-fc3d-4912-b964-ad959ab9c48e,1293344,Microsoft 365 Apps for business (NCE COM ANN),TERMINATED,26/07/2023,,26/07/2024,Annually,Annually,1200082620,Anytime Fitness,1
+212955,Fusion Tech,72531,2fd20b0f-9fe2-4ba4-97bd-af7e15e71b78,1400006,Microsoft 365 Apps for business (NCE COM ANN),TERMINATED,09/01/2025,,09/01/2026,Annually,Annually,1200082619,Anytime Fitness,1
+212955,Fusion Tech,72684,1cff7d3c-8342-4891-bbfc-defca8320e97,1388040,Microsoft 365 Business Standard (NCE COM MTH),ACTIVE,27/10/2024,,27/10/2026,Annually,Monthly,1200147048,Apex Services,6
+212955,Fusion Tech,,1033c1fc-6e6c-4586-bca3-6f48d5fea938,1034879,Office 365 Business Premium (Annual Pre-Paid),TERMINATED,18/10/2017,,18/10/2021,Annually,Annually,1200022209,Assett Property Management LTD,1
+212955,Fusion Tech,,091f0905-0b92-48cb-ad2e-d3deb8f5232e,1215414,Microsoft 365 Business Basic (NCE COM ANN),TERMINATED,23/07/2022,,23/07/2024,Annually,Annually,1200103831,Auckland Outdoor Living,5
+212955,Fusion Tech,,3ad9aac2-68c8-47f3-bd0f-29bce2ec885f,1214926,Microsoft 365 Business Basic (NCE COM ANN),TERMINATED,,,,Annually,Annually,1200103831,Auckland Outdoor Living,0
+212955,Fusion Tech,73059,78715139-7c05-485c-bb69-bcb6147d8227,1454998,Microsoft 365 Business Standard (NCE COM ANN),ACTIVE,05/11/2025,,05/11/2026,Annually,Annually,1200046714,Australasian Resurfacing Supplies,1
+212955,Fusion Tech,,0f73c2a5-acfc-4e56-8c09-a754476d8429,1086819,Office 365 Business Premium (Annual Pre-Paid),TERMINATED,06/11/2019,,06/11/2024,Annually,Annually,1200046714,Australasian Resurfacing Supplies,1
+212955,Fusion Tech,72624,133aecab-10ed-4cab-849a-a1cd5cc8bc3c,1414343,Microsoft 365 Business Basic (NCE COM ANN),ACTIVE,20/03/2025,,20/03/2026,Annually,Annually,1200038920,Award Carpets,8
+212955,Fusion Tech,72646,76ab59f4-9fbc-419f-a9f1-7c1f0ddc7d94,1417138,Microsoft 365 Business Basic (no Teams) (NCE COM ANN),TERMINATED,03/04/2025,,03/04/2026,Annually,Annually,1200038920,Award Carpets,1
+212955,Fusion Tech,,b0f0ce47-beb2-4db6-9042-b85d1b819fb5,1337424,Microsoft 365 Business Basic (NCE COM ANN),TERMINATED,09/03/2024,,09/03/2025,Annually,Annually,1200038920,Award Carpets,23
+212955,Fusion Tech,,76b1b658-6488-40ef-b4fd-b55b77a53a61,1068677,Office 365 Business Essentials (Annual Pre-Paid),TERMINATED,14/03/2019,,14/03/2024,Annually,Annually,1200038920,Award Carpets,23
+212955,Fusion Tech,,272b3de1-83ef-4e51-ae97-4d8f1cc68b44,1066932,Office 365 Business Premium (Annual Pre-Paid),TERMINATED,20/02/2019,,20/02/2023,Annually,Annually,1200013908,Barry Sheds,1
+212955,Fusion Tech,,fceb780e-78a9-4e9d-b844-5fad7e629c5d,1066930,Office 365 Business Premium (Monthly Pre-Paid),TERMINATED,20/02/2019,18/02/2020,20/02/2020,Annually,Monthly,1200013908,Barry Sheds,1
+212955,Fusion Tech,,36997c7e-e430-4c92-880c-758e9039b56b,1020542,Office 365 Business Essentials (Annual Pre-Paid),TERMINATED,14/02/2017,,14/02/2023,Annually,Annually,1200013908,Barry Sheds,3
+212955,Fusion Tech,,4b83ef7c-6138-4543-b070-cd2bede52880,1033716,Office 365 Business Premium (Annual Pre-Paid),TERMINATED,02/10/2017,,02/10/2018,Annually,Annually,1200013908,Barry Sheds,1
+212955,Fusion Tech,,803af330-c8eb-4752-ae4a-2fb656f2f628,1251806,Exchange Online (Plan 1) (NCE COM MTH),TERMINATED,13/02/2023,,13/01/2024,Monthly,Monthly,1200078467,Blue Mako,1
+212955,Fusion Tech,,88f131c7-5ca7-418c-9530-e0e2fd3b7006,1334864,Exchange Online (Plan 1) (NCE COM ANN),TERMINATED,26/02/2024,,26/02/2025,Annually,Annually,1200078467,Blue Mako,1
+212955,Fusion Tech,BM100625,b04ca935-0965-4735-a4b9-cb93b9d52812,1428945,Exchange Online (Plan 1) (NCE COM ANN),ACTIVE,10/06/2025,,10/06/2026,Annually,Annually,1200078467,Blue Mako,1
+212955,Fusion Tech,,1f953150-7e60-4ce9-87a2-912eaf33583b,1134001,Microsoft 365 Business Basic (CSP COM 1YR ANN),TERMINATED,12/01/2021,,12/01/2023,Annually,Annually,1200078467,Blue Mako,2
+212955,Fusion Tech,BAH251124,732fc91d-49e9-482b-99e2-01bd0cbadb25,1393229,Microsoft 365 Business Standard (no Teams) (NCE COM ANN),TERMINATED,24/11/2024,,24/11/2025,Annually,Annually,1200023732,Boiler & Heating Services Ltd,1
+212955,Fusion Tech,73108,9b4d5467-8088-44c6-8da4-ea9cbb84a014,1462047,Microsoft 365 Business Standard (NCE COM ANN),ACTIVE,01/12/2025,30/11/2026,01/12/2026,Annually,Annually,1200023732,Boiler & Heating Services Ltd,1
+212955,Fusion Tech,73108,20170249-5588-4025-a883-43c52d1236ee,1462048,Exchange Online (Plan 1) (NCE COM ANN),ACTIVE,01/12/2025,30/11/2026,01/12/2026,Annually,Annually,1200023732,Boiler & Heating Services Ltd,3
+212955,Fusion Tech,BAH251124,1164b700-f648-4b48-9813-317a22eec7dc,1393228,Exchange Online (Plan 1) (NCE COM ANN),TERMINATED,24/11/2024,,24/11/2025,Annually,Annually,1200023732,Boiler & Heating Services Ltd,3
+212955,Fusion Tech,,afa1a8e8-d798-4c43-a95f-8d0efa7482f3,1037376,Office 365 Business Premium (Annual Pre-Paid),TERMINATED,29/11/2017,,29/11/2024,Annually,Annually,1200023732,Boiler & Heating Services Ltd,1
+212955,Fusion Tech,,97d6dee2-b1d7-49b0-93cc-9f1c2fbd253a,1037375,Exchange Online (Plan 1) (Annual Pre-Paid),TERMINATED,29/11/2017,,29/11/2024,Annually,Annually,1200023732,Boiler & Heating Services Ltd,3
+212955,Fusion Tech,,97202b87-7435-4d4f-81ae-55371244c30f,1178313,Microsoft 365 Business Standard (CSP COM 1YR MTH),TERMINATED,10/02/2022,,10/02/2024,Annually,Monthly,1200016424,Bromleywear Clothing Ltd,2
+212955,Fusion Tech,,1ba68685-d7e2-4de1-ae5f-5f04201aecda,1338776,Microsoft 365 Business Standard (NCE COM ANN),TERMINATED,18/03/2024,,18/03/2025,Annually,Annually,1200016424,Bromleywear Clothing Ltd,2
+212955,Fusion Tech,,61ddf97c-0250-4225-a378-f9d681ce2472,1024625,Office 365 Business Essentials (Monthly Pre-Paid),TERMINATED,28/04/2017,26/04/2024,28/04/2024,Annually,Monthly,1200016424,Bromleywear Clothing Ltd,1
+212955,Fusion Tech,,a487680c-ff39-4de3-93cf-35f011f779f7,1100233,Microsoft 365 Business Standard (Annual Pre-Paid),TERMINATED,22/04/2020,,22/04/2021,Annually,Annually,1200052984,Broncos Steakhouse,1
+212955,Fusion Tech,,e53cd24c-3b1a-4793-b87a-3c50327eddad,1335629,Microsoft 365 Business Standard Trial (NCE COM MTH),TERMINATED,29/02/2024,,29/03/2024,Monthly,Monthly,1200126013,Build Me,25
+212955,Fusion Tech,73087,fb92f098-b7dc-4c9a-ab7d-3d38cfc8a7f0,1351844,Microsoft 365 Business Basic (NCE COM MTH),ACTIVE,29/04/2024,27/02/2026,28/02/2026,Monthly,Monthly,1200126013,Build Me,7
+212955,Fusion Tech,,e4ec1ebf-880c-45bd-8d4e-51d8ad4ad270,1367001,Project Plan 3 (NCE COM MTH),TERMINATED,22/07/2024,,21/01/2026,Monthly,Monthly,1200126013,Build Me,1
+212955,Fusion Tech,73187,209bf212-82d6-44bc-9fc6-350bf8a6a8ae,1351845,Microsoft 365 Business Standard (NCE COM MTH),ACTIVE,29/04/2024,27/02/2026,28/02/2026,Monthly,Monthly,1200126013,Build Me,7
+212955,Fusion Tech,73171,3d81ee99-1933-48a4-8b39-72d616d6f2f2,1468926,Planner and Project Plan 3 (NCE COM MTH),ACTIVE,22/01/2026,21/02/2026,22/02/2026,Monthly,Monthly,1200126013,Build Me,1
+212955,Fusion Tech,VOX0502,457fe301-7cc9-4c94-83f3-95738172eee9,1471129,Planner and Project Plan 3 (NCE COM MTH),ACTIVE,04/02/2026,03/02/2027,04/02/2027,Annually,Monthly,1200177693,Built Construction Group,1
+212955,Fusion Tech,VOX0502,c1a8e1e5-53b5-452a-9ba8-d14d221e101a,1471130,Exchange Online (Plan 2) (NCE COM MTH),ACTIVE,04/02/2026,03/02/2027,04/02/2027,Annually,Monthly,1200177693,Built Construction Group,2
+212955,Fusion Tech,VOX0502,1fa1d4ca-1412-4ace-96a9-c88ab4a7bb8a,1471132,Microsoft 365 Business Standard (NCE COM MTH),ACTIVE,04/02/2026,03/02/2027,04/02/2027,Annually,Monthly,1200177693,Built Construction Group,2
+212955,Fusion Tech,VOX0502,00bdd42f-0882-4d08-8164-e34c2dea7cad,1471131,Exchange Online (Plan 1) (NCE COM MTH),ACTIVE,04/02/2026,03/02/2027,04/02/2027,Annually,Monthly,1200177693,Built Construction Group,5
+212955,Fusion Tech,CES030425,41eb9500-f42c-4291-808e-35de714dcb55,1417039,Microsoft Entra ID P2 (NCE COM MTH),ACTIVE,03/04/2025,02/03/2026,03/03/2026,Monthly,Monthly,1200158965,CITY EYE SPECIALISTS LIMITED,1
+212955,Fusion Tech,73185,33d573ee-4ba4-4708-abe1-622e2c6bc105,1470095,Microsoft 365 Business Basic (NCE COM MTH),ACTIVE,01/02/2026,28/02/2026,01/03/2026,Monthly,Monthly,1200158965,CITY EYE SPECIALISTS LIMITED,23
+212955,Fusion Tech,CES050125,9cf9060f-aeb1-4ce3-9865-886d29c0dbd2,1466022,Microsoft 365 Business Basic (NCE COM MTH),TERMINATED,04/01/2026,,04/02/2026,Monthly,Monthly,1200158965,CITY EYE SPECIALISTS LIMITED,1
+212955,Fusion Tech,,9657469a-59b2-4f47-a5b6-3dc6c47dcd56,1327576,Microsoft 365 Apps for business (NCE COM ANN),ACTIVE,19/01/2024,,19/01/2027,Annually,Annually,1200048814,Cascade Storage,1
+212955,Fusion Tech,,e80e9c66-e8fa-4947-91b1-d9b416360695,1091822,Office 365 Business (Annual Pre-Paid),TERMINATED,20/01/2020,,20/01/2025,Annually,Annually,1200048814,Cascade Storage,1
+212955,Fusion Tech,,3d1f6c04-cb17-4ddb-b56e-a5f0446d1d6e,1311664,Microsoft 365 Business Basic (NCE COM MTH),TERMINATED,18/10/2023,,17/06/2024,Monthly,Monthly,1200118988,City Eye Specialists,22
+212955,Fusion Tech,,0e8a9547-24f4-47e8-99b1-7a22a4956513,1320583,Windows Server 2022 Remote Desktop Services - 1 Device CAL (NCE COM BAS PER 1TM),ACTIVE,05/12/2023,,05/12/2033,Annually,Annually,1200118988,City Eye Specialists,13
+212955,Fusion Tech,,6229fac7-8d99-49d5-9f80-5ac8b735bb6c,1301077,Office 365 E3 Trial (NCE COM MTH),TERMINATED,25/08/2023,,25/09/2023,Monthly,Monthly,1200118988,City Eye Specialists,25
+212955,Fusion Tech,,c2595297-380d-41a8-bd1e-201554d47c17,1168321,Exchange Online (Plan 1) (CSP COM 1YR ANN),TERMINATED,02/12/2021,,02/12/2024,Annually,Annually,1200021753,Cobalt,1
+212955,Fusion Tech,,0ab5901d-9deb-4524-b3c6-7338953a7c8a,1267603,Microsoft 365 Business Standard (NCE COM ANN),TERMINATED,19/04/2023,,19/04/2024,Annually,Annually,1200021753,Cobalt,1
+212955,Fusion Tech,,c0b140ea-35ac-4351-9d34-f5fecdbf9923,1170797,Microsoft 365 Business Basic (CSP COM 1YR ANN),TERMINATED,21/12/2021,,21/12/2024,Annually,Annually,1200021753,Cobalt,3
+212955,Fusion Tech,,b820ac5c-9846-4702-8f16-d914594a135b,1096388,Office 365 Business (Annual Pre-Paid),TERMINATED,12/03/2020,,12/03/2022,Annually,Annually,1200021753,Cobalt,1
+212955,Fusion Tech,,a0cf6276-1830-4f7a-a36c-22d6f9759184,1034000,Exchange Online (Plan 1) (Annual Pre-Paid),TERMINATED,06/10/2017,,06/10/2020,Annually,Annually,1200021753,Cobalt,2
+212955,Fusion Tech,,a87f976f-d0ee-4d3b-a635-1a8a618c0a3d,1272478,Microsoft 365 Business Basic (NCE COM MTH),TERMINATED,09/05/2023,,09/12/2023,Monthly,Monthly,1200014956,Commercial Projects,2
+212955,Fusion Tech,,ffc7a8de-763f-40c3-84d1-86d5f608460a,1046515,Dropbox Business: Standard (Monthly),TERMINATED,14/05/2018,,14/05/2022,Annually,Monthly,1200014956,Commercial Projects,4
+212955,Fusion Tech,,6f0b9922-56cd-431e-9507-db2c55d35dbd,1080964,Project Online Professional (Monthly Pre-Paid),TERMINATED,21/08/2019,19/08/2020,21/08/2020,Annually,Monthly,1200014956,Commercial Projects,1
+212955,Fusion Tech,,cf67481b-cb81-41e0-a4a3-f9f2fd050112,1022182,Office 365 Business Premium (Annual Pre-Paid),TERMINATED,12/03/2017,,12/03/2021,Annually,Annually,1200014956,Commercial Projects,1
+212955,Fusion Tech,,90af12a9-9462-4579-b59f-8e886313f8cc,1022181,Office 365 Business Essentials (Annual Pre-Paid),TERMINATED,12/03/2017,,12/03/2023,Annually,Annually,1200014956,Commercial Projects,1
+212955,Fusion Tech,72951,09c8fac3-d5ca-4637-be3e-d744d7dd0f5a,1445850,Microsoft 365 Business Basic (NCE COM ANN),ACTIVE,16/09/2025,,16/09/2026,Annually,Annually,1200033697,Core Electrical,2
+212955,Fusion Tech,,908a6226-4baa-40ca-9b19-c0d40ee80bdf,1057780,Office 365 Business Essentials (Annual Pre-Paid),TERMINATED,05/10/2018,,05/10/2024,Annually,Annually,1200033697,Core Electrical,2
+212955,Fusion Tech,,71a3ebb1-2360-4190-93a0-e27e9f0dc207,1219440,Exchange Online Archiving for Exchange Online (NCE COM MTH),ACTIVE,15/08/2022,,15/02/2026,Monthly,Monthly,1200013848,Corneal Lens Corporation,1
+212955,Fusion Tech,,b4fb737f-2ba2-4895-a2d6-fa69dc4577a1,1344213,Microsoft 365 Business Basic (NCE COM MTH),ACTIVE,25/03/2024,,25/03/2026,Annually,Monthly,1200013848,Corneal Lens Corporation,7
+212955,Fusion Tech,,835c100e-4f35-4376-a4da-40584990acc9,1115237,Office 365 E3 (Monthly Pre-Paid),TERMINATED,27/08/2020,25/08/2024,27/08/2024,Annually,Monthly,1200013848,Corneal Lens Corporation,1
+212955,Fusion Tech,,ba01f8e1-16cc-4735-b717-4ab9fca4f109,1093418,Office 365 Business Premium (Monthly Pre-Paid),TERMINATED,10/02/2020,08/02/2024,10/02/2024,Annually,Monthly,1200013848,Corneal Lens Corporation,15
+212955,Fusion Tech,,75d18602-6acd-4374-bcad-da7a03681870,1094936,Office 365 Business (Monthly Pre-Paid),TERMINATED,26/02/2020,24/02/2024,26/02/2024,Annually,Monthly,1200013848,Corneal Lens Corporation,1
+212955,Fusion Tech,72732,1fb6029e-8e03-417f-905d-a640c0d85853,1328239,Microsoft 365 Business Standard (NCE COM MTH),ACTIVE,24/01/2024,,24/01/2027,Annually,Monthly,1200013848,Corneal Lens Corporation,17
+212955,Fusion Tech,,d682c32c-9ee4-4bd1-b622-3f6e29e5fb30,1370098,Office 365 E3 (NCE COM MTH),ACTIVE,05/08/2024,04/03/2026,05/03/2026,Monthly,Monthly,1200013848,Corneal Lens Corporation,1
+212955,Fusion Tech,,8b5593a1-458a-4897-b556-81b03f8c2f6f,1330776,Microsoft 365 Apps for business (NCE COM MTH),TERMINATED,07/02/2024,,07/02/2026,Annually,Monthly,1200013848,Corneal Lens Corporation,1
+212955,Fusion Tech,,73ccdffc-8c2d-4d55-8e9f-5bdd11ce3b8c,1128339,Exchange Online (Plan 1) (CSP COM 1YR MTH),TERMINATED,09/11/2020,07/11/2021,09/11/2021,Annually,Monthly,1200013848,Corneal Lens Corporation,1
+212955,Fusion Tech,,67d8d8b2-65c0-4621-946e-a722f4fe80e9,1099921,Office 365 Business Essentials (Monthly Pre-Paid),TERMINATED,20/04/2020,18/04/2024,20/04/2024,Annually,Monthly,1200013848,Corneal Lens Corporation,9
+212955,Fusion Tech,,0256bca6-f9ec-43b8-905e-34d4b14918bd,1063193,Office 365 Business (Annual Pre-Paid),TERMINATED,19/12/2018,,19/12/2019,Annually,Annually,1200013848,Corneal Lens Corporation,1
+212955,Fusion Tech,,87b65db8-6a65-4653-ae54-e023838577d0,1035639,Exchange Online (Plan 1) (Monthly Pre-Paid),TERMINATED,30/10/2017,28/10/2018,30/10/2018,Annually,Monthly,1200013848,Corneal Lens Corporation,1
+212955,Fusion Tech,,68c28966-d038-4f3c-8fb2-e8e264ef462e,1035640,Exchange Online (Plan 1) (Annual Pre-Paid),TERMINATED,30/10/2017,,30/10/2020,Annually,Annually,1200013848,Corneal Lens Corporation,1
+212955,Fusion Tech,,d0c521b0-2416-470c-9c00-e091e95218ed,1024268,Office 365 Business Essentials (Annual Pre-Paid),TERMINATED,19/04/2017,,19/04/2020,Annually,Annually,1200013848,Corneal Lens Corporation,17
+212955,Fusion Tech,,83c7d498-3c85-4497-b1f8-ed180a20efbc,1020454,Office 365 Business Premium (Annual Pre-Paid),TERMINATED,08/02/2017,,08/02/2020,Annually,Annually,1200013848,Corneal Lens Corporation,9
+212955,Fusion Tech,,7476b470-32c4-44b0-bf73-7623c4c15515,1275932,Microsoft 365 Business Standard Trial (NCE COM MTH),TERMINATED,23/05/2023,,23/06/2023,Monthly,Monthly,1200115427,Designer Sheds,25
+212955,Fusion Tech,,1c7eb034-4830-4673-a833-a7ba918b8539,1292845,Microsoft 365 Business Basic (NCE COM ANN),TERMINATED,24/07/2023,,24/07/2025,Annually,Annually,1200115427,Designer Sheds,3
+212955,Fusion Tech,,cb1dc0cd-7cdb-437a-a089-fb97d74fff97,1149507,Microsoft 365 Business Standard (CSP COM 1YR ANN),TERMINATED,22/06/2021,,22/06/2024,Annually,Annually,1200038541,Distinctive Badges Ltd,1
+212955,Fusion Tech,,1249efed-6bb6-4984-9a08-fae9e7d930f8,1109477,Microsoft 365 Apps for Business (Monthly Pre-Paid),TERMINATED,16/07/2020,,16/07/2021,Annually,Monthly,1200038541,Distinctive Badges Ltd,1
+212955,Fusion Tech,,0447964e-52ab-4bf9-ae9d-f18a9f1eb308,1138756,Microsoft 365 Business Basic (CSP COM 1YR MTH),TERMINATED,05/03/2021,03/03/2022,05/03/2022,Annually,Monthly,1200038541,Distinctive Badges Ltd,1
+212955,Fusion Tech,,c31d72a7-bf22-4d86-b56d-c91fce6bb886,1079071,Office 365 Business Premium (Annual Pre-Paid),TERMINATED,30/07/2019,,30/07/2020,Annually,Annually,1200038541,Distinctive Badges Ltd,1
+212955,Fusion Tech,,fe1015b7-391b-4623-ba97-33dfcd3a9ebb,1067894,Office 365 Business Essentials (Annual Pre-Paid),TERMINATED,04/03/2019,,04/03/2021,Annually,Annually,1200038541,Distinctive Badges Ltd,1
+212955,Fusion Tech,,2eb48d75-2153-4e30-9a96-2a7e2c44f0a6,1213502,Azure Active Directory Premium P2 (NCE COM MTH),TERMINATED,15/07/2022,,15/07/2024,Annually,Monthly,1200013302,Drain King,1
+212955,Fusion Tech,72527,a6988714-79b3-4813-b65c-eb129ed690d9,1399272,Microsoft 365 Business Standard (NCE COM MTH),TERMINATED,02/01/2025,,02/03/2025,Monthly,Monthly,1200013302,Drain King,11
+212955,Fusion Tech,72598,02562ec5-290d-4208-b6b2-38ea928e3f8c,1410850,Microsoft 365 Business Standard (NCE COM MTH),TERMINATED,02/03/2025,,02/07/2025,Monthly,Monthly,1200013302,Drain King,4
+212955,Fusion Tech,72832,9e6dc4f1-5888-4ad2-8e61-24543087ad3c,1435216,Microsoft 365 Business Basic (NCE COM MTH),ACTIVE,15/07/2025,14/02/2026,15/02/2026,Monthly,Monthly,1200013302,Drain King,7
+212955,Fusion Tech,,6a75a1e1-c9f4-46d6-af7b-12089980ffc6,1324942,Microsoft 365 Business Standard (NCE COM MTH),TERMINATED,02/01/2024,,02/01/2025,Annually,Monthly,1200013302,Drain King,11
+212955,Fusion Tech,72597,34f9c72b-6121-45e6-ab1d-db97f1743349,1399273,Microsoft 365 Business Basic (NCE COM MTH),TERMINATED,02/01/2025,,02/07/2025,Monthly,Monthly,1200013302,Drain King,7
+212955,Fusion Tech,72832,268d85f9-5584-40ac-8dc0-fe9d0bcb84e0,1435215,Microsoft 365 Business Standard (NCE COM MTH),TERMINATED,15/07/2025,14/08/2025,15/08/2025,Monthly,Monthly,1200013302,Drain King,4
+212955,Fusion Tech,72943,e4e87564-984e-4c26-9e56-dd35a6bdd864,1444947,Microsoft 365 Business Standard (NCE COM MTH),ACTIVE,08/09/2025,07/03/2026,08/03/2026,Monthly,Monthly,1200013302,Drain King,4
+212955,Fusion Tech,,ae0993ec-4471-4945-9287-a4b8b0baca3e,1324934,Microsoft 365 Business Basic (NCE COM MTH),TERMINATED,02/01/2024,,02/01/2025,Annually,Monthly,1200013302,Drain King,5
+212955,Fusion Tech,,8cf4b731-0d87-4644-8154-59b277d83c54,1377928,Microsoft Entra ID P2 (NCE COM MTH),ACTIVE,16/09/2024,15/02/2026,16/02/2026,Monthly,Monthly,1200013302,Drain King,1
+212955,Fusion Tech,,391c57c6-cb79-43b8-9b87-17c4945996cb,1019613,Office 365 Business Premium (Monthly Pre-Paid),TERMINATED,22/01/2017,20/01/2024,22/01/2024,Annually,Monthly,1200013302,Drain King,11
+212955,Fusion Tech,,e31c01d7-cc1a-44a1-be83-4ac80f6efbd7,1019612,Office 365 Business Essentials (Monthly Pre-Paid),TERMINATED,22/01/2017,20/01/2024,22/01/2024,Annually,Monthly,1200013302,Drain King,5
+212955,Fusion Tech,,b1f28e15-23bf-4e96-b0b0-105154de843f,1252529,Microsoft 365 Business Standard (NCE COM MTH),ACTIVE,16/02/2023,,15/02/2026,Annually,Monthly,1200040836,Drillconnex,2
+212955,Fusion Tech,,927cbaad-ad01-4ad1-b862-c1b708cfd125,1432595,Dropbox Standard (Monthly),ACTIVE,29/06/2025,27/02/2026,28/02/2026,Monthly,Monthly,1200040836,Drillconnex,3
+212955,Fusion Tech,,c063efa6-2fad-4524-9a02-84ef4eaa289f,1348802,Microsoft 365 Business Basic (NCE COM MTH),ACTIVE,10/04/2024,08/03/2026,09/03/2026,Monthly,Monthly,1200040836,Drillconnex,5
+212955,Fusion Tech,,244f46b4-b343-474d-8cad-f0ef32c102a5,1107754,Dropbox Biz: Standard - 3 licenses included (Annual/Monthly),TERMINATED,29/06/2020,28/06/2026,29/06/2026,Annually,Monthly,1200040836,Drillconnex,3
+212955,Fusion Tech,,5cd3ecdf-944e-452f-b9f6-3e20d6fbc504,1072590,Office 365 Business Essentials (Monthly Pre-Paid),TERMINATED,09/05/2019,07/05/2024,09/05/2024,Annually,Monthly,1200040836,Drillconnex,7
+212955,Fusion Tech,72990,c5879176-bf5f-4cb9-9f94-5f684afe361f,1448708,Microsoft 365 Business Standard Trial (NCE COM MTH),TERMINATED,01/10/2025,,01/11/2025,Monthly,Monthly,1200168774,Employ Me,25
+212955,Fusion Tech,,30346520-2f22-4ebc-8f8e-b83a855c25bf,1028934,Exchange Online (Plan 1) (Annual Pre-Paid),TERMINATED,12/07/2017,,12/07/2021,Annually,Annually,1200018894,Epicurean Journeys Ltd,1
+212955,Fusion Tech,,c09c8c3c-2694-4913-872b-54d1f4d05b49,1390088,Microsoft 365 Business Standard (NCE COM MTH),TERMINATED,06/11/2024,,05/08/2025,Annually,Monthly,1200059659,Euro Parts,1
+212955,Fusion Tech,EURO041124,6ff3cbf0-a823-4c68-a3c4-393872c59078,1389599,Microsoft 365 Business Standard (NCE COM MTH),ACTIVE,04/11/2024,03/03/2026,04/03/2026,Monthly,Monthly,1200059659,Euro Parts,9
+212955,Fusion Tech,,f8d02235-760a-4a06-be38-b084e5728748,1370150,Microsoft 365 Business Basic (NCE COM MTH),ACTIVE,05/08/2024,04/03/2026,05/03/2026,Monthly,Monthly,1200059659,Euro Parts,9
+212955,Fusion Tech,,703058f6-4d2b-4f6f-8743-0ee06d29c7c9,1115764,Microsoft 365 Business Basic (Monthly Pre-Paid),TERMINATED,02/09/2020,31/08/2024,02/09/2024,Annually,Monthly,1200059659,Euro Parts,9
+212955,Fusion Tech,,934ae1ea-458b-4582-920b-ed735512a89a,1128222,Microsoft 365 Business Standard (CSP COM 1YR MTH),TERMINATED,09/11/2020,,09/11/2024,Annually,Monthly,1200059659,Euro Parts,8
+212955,Fusion Tech,EURO041124,48d6dee5-40d2-4b4e-90ed-7ee7c4b6b51f,1389600,Microsoft 365 Business Basic (NCE COM MTH),TERMINATED,04/11/2024,03/12/2024,04/12/2024,Monthly,Monthly,1200059659,Euro Parts,10
+212955,Fusion Tech,72459,9e829b3a-77df-41f8-8ec3-49b5263b44c8,1390004,Microsoft 365 Business Standard (NCE COM MTH),TERMINATED,05/11/2024,04/12/2024,05/12/2024,Monthly,Monthly,1200059659,Euro Parts,2
+212955,Fusion Tech,72470,728af45d-900e-40d1-a564-6af495928560,1391532,OneDrive for business (Plan 1) (NCE COM MTH),ACTIVE,13/11/2024,12/02/2026,13/02/2026,Monthly,Monthly,1200059659,Euro Parts,1
+212955,Fusion Tech,,a7447d50-ebca-4170-a1a8-507d298acb2f,1056330,Exchange Online (Plan 1) (Annual Pre-Paid),TERMINATED,12/09/2018,,12/09/2019,Annually,Annually,1200021698,Excel Trading,1
+212955,Fusion Tech,,55e5fdba-b712-4c09-a6cd-25032304d790,1038093,Exchange Online (Plan 1) (Monthly Pre-Paid),TERMINATED,11/12/2017,,11/12/2018,Annually,Monthly,1200021698,Excel Trading,3
+212955,Fusion Tech,,fcf92c41-c391-4552-9297-5caa7cc52c6c,1033918,Exchange Online (Plan 1) (Monthly Pre-Paid),TERMINATED,04/10/2017,02/10/2018,04/10/2018,Annually,Monthly,1200021698,Excel Trading,3
+212955,Fusion Tech,,cc30e75c-583a-4a49-846c-3683d9ff9153,1045640,Office 365 Business Premium (Annual Pre-Paid),TERMINATED,30/04/2018,,30/04/2019,Annually,Annually,1200015485,Explorer Tours,1
+212955,Fusion Tech,,0ae4c4e0-9359-45f2-bf3a-fd295ce7c502,1046483,Office 365 Business Essentials (Annual Pre-Paid),TERMINATED,13/05/2018,,13/05/2019,Annually,Annually,1200015485,Explorer Tours,3
+212955,Fusion Tech,,e7e2468d-7461-4242-9695-ce5e912fceed,1023073,Office 365 Business Essentials (Annual Pre-Paid),TERMINATED,28/03/2017,26/03/2019,28/03/2019,Annually,Annually,1200015485,Explorer Tours,2
+212955,Fusion Tech,,7fe9c242-1708-4174-9e0f-2172cf178ebd,1257531,Azure Active Directory Premium P2 (NCE COM MTH),ACTIVE,09/03/2023,08/03/2026,09/03/2026,Annually,Monthly,1200040218,Fel group,1
+212955,Fusion Tech,73013,627fb883-6ca4-47ff-acba-abcb9c0ef1e9,1450167,Windows 10 ESU Year 1 (2025 - 2026) (NCE COM BAS PER 1TM),ACTIVE,09/10/2025,,09/10/2035,Annually,Annually,1200040218,Fel group,2
+212955,Fusion Tech,,6e489de6-8d0d-41de-8352-8b59c7edd23e,1339202,Microsoft 365 Business Standard (NCE COM MTH),ACTIVE,19/03/2024,,19/03/2026,Annually,Monthly,1200040218,Fel group,19
+212955,Fusion Tech,72610,e1d4ba63-a7bd-4dba-9cb7-12ecbeafd141,1412158,Exchange Online (Plan 1) (NCE COM MTH),TERMINATED,10/03/2025,09/04/2025,10/04/2025,Monthly,Monthly,1200040218,Fel group,1
+212955,Fusion Tech,73091,50dcfcde-0a38-4759-9b8d-439e430b0cac,1458026,Microsoft 365 Business Standard (NCE COM MTH),TERMINATED,20/11/2025,,20/12/2025,Monthly,Monthly,1200040218,Fel group,1
+212955,Fusion Tech,,90038cd5-2028-4ab7-8c0c-109e77d617b1,1339171,Microsoft 365 Business Basic (NCE COM MTH),ACTIVE,19/03/2024,,19/03/2026,Annually,Monthly,1200040218,Fel group,2
+212955,Fusion Tech,,8c349d76-d5c9-4653-9710-4c86fa470a6a,1071175,Office 365 Business Premium (Monthly Pre-Paid),TERMINATED,16/04/2019,14/04/2024,16/04/2024,Annually,Monthly,1200040218,Fel group,21
+212955,Fusion Tech,,24702755-ce3d-4677-bb90-3bde45402062,1071173,Office 365 Business Essentials (Monthly Pre-Paid),TERMINATED,16/04/2019,14/04/2024,16/04/2024,Annually,Monthly,1200040218,Fel group,3
+212955,Fusion Tech,,ce1c6345-3295-41b3-97d0-b4e1337439a5,1205155,Microsoft 365 Business Standard (NCE COM MTH),TERMINATED,21/06/2022,,21/06/2024,Annually,Monthly,1200102236,Finespine,1
+212955,Fusion Tech,73106,a4305ea7-6224-49e0-98ab-86be449cb464,1461778,Microsoft 365 Business Standard (NCE COM MTH),ACTIVE,01/12/2025,30/11/2026,01/12/2026,Annually,Monthly,1200102236,Finespine,1
+212955,Fusion Tech,,3a02e25f-3d34-4a22-8b7e-9606789a3c01,1174234,Microsoft 365 Business Standard (CSP COM 1YR MTH),TERMINATED,17/01/2022,15/01/2024,17/01/2024,Annually,Monthly,1200013683,Fluker,15
+212955,Fusion Tech,72610,ffe8a45c-0ea5-4514-ab76-d01e0340493f,1412186,Exchange Online (Plan 1) (NCE COM MTH),TERMINATED,10/03/2025,09/03/2026,10/03/2026,Annually,Monthly,1200013683,Fluker,1
+212955,Fusion Tech,FLUKER170225,5dcde4f2-0ef5-466e-bcc0-8406c85e5d87,1407473,Microsoft Defender for Office 365 (Plan 2) (NCE COM MTH),TERMINATED,17/02/2025,16/08/2025,17/08/2025,Monthly,Monthly,1200013683,Fluker,1
+212955,Fusion Tech,,fb6e8e14-9c8e-4e64-9145-ddee002a356d,1326491,Microsoft 365 Business Standard (NCE COM MTH),ACTIVE,15/01/2024,,14/01/2027,Annually,Monthly,1200013683,Fluker,11
+212955,Fusion Tech,72610,27adc4da-8198-4f46-a539-df7cb2f745ac,1412190,Exchange Online (Plan 1) (NCE COM MTH),ACTIVE,10/03/2025,09/03/2026,10/03/2026,Monthly,Monthly,1200013683,Fluker,1
+212955,Fusion Tech,,e8ccb062-7c37-4683-8efa-ad950a9a6382,1138841,Microsoft 365 Business Basic (CSP COM 1YR MTH),TERMINATED,06/03/2021,04/03/2024,06/03/2024,Annually,Monthly,1200013683,Fluker,1
+212955,Fusion Tech,,8d5ec89d-094b-4dbf-9e2f-fb8d060a21e9,1134357,Dropbox Biz: Standard - 3 licenses included (30 day trial),TERMINATED,17/01/2021,,16/02/2021,30 DAYS,Monthly,1200013683,Fluker,13
+212955,Fusion Tech,,b5ca0c1b-18fc-4218-82c5-03300a348252,1136943,Dropbox Biz: Standard - 3 licenses included (Annual/Monthly),ACTIVE,18/02/2021,17/02/2026,18/02/2026,Annually,Monthly,1200013683,Fluker,12
+212955,Fusion Tech,,dc0a5f46-fea6-432c-8094-b15c2f389ce8,1326790,Microsoft 365 Business Standard (NCE COM MTH),TERMINATED,16/01/2024,,16/01/2025,Monthly,Monthly,1200013683,Fluker,1
+212955,Fusion Tech,73194,6f37d72a-2ae4-4fdd-a0b4-5849d7caf98b,1471537,Microsoft Defender for Office 365 (Plan 2) (NCE COM MTH),ACTIVE,08/02/2026,,08/03/2026,Monthly,Monthly,1200013683,Fluker,1
+212955,Fusion Tech,,525311db-266e-4b1a-bfc5-40c70da05502,1020186,Office 365 Business (Annual Pre-Paid),TERMINATED,02/02/2017,,02/02/2022,Annually,Annually,1200013683,Fluker,2
+212955,Ingram Micro (N.Z.) Limited,,6c46c81c-47a9-43b4-86a1-b636565b1d49,1432512,Ingram Micro Seamless Move,ACTIVE,29/06/2025,24/06/2026,29/06/2026,Annually,Annually,1200011294,Fusion Tech,
+212955,Fusion Tech,,5e89729b-8eb6-4137-98e3-ff3d3e59097f,1087450,Exchange Online (Plan 1) (Annual Pre-Paid),TERMINATED,13/11/2019,,13/11/2020,Annually,Annually,1200046980,Fusion Tech,2
+212955,Ingram Micro (N.Z.) Limited,,aeeeb4f5-927e-4563-899c-e8ced348e26e,1027579,Acronis Reseller Branding and White labeling,TERMINATED,19/06/2017,18/08/2024,19/08/2024,Monthly,1 MONTHLY ON STATEMENT DAY,1200011294,Fusion Tech,
+212955,Fusion Tech,,1b935971-6df2-41eb-805c-f29a7bd408c5,1353449,Microsoft 365 Business Standard (NCE COM ANN),ACTIVE,07/05/2024,,06/05/2026,Annually,Annually,1200054231,Grahame Christian,1
+212955,Fusion Tech,,0620ab87-bd5d-46fd-a142-2cf3e392b48e,1103638,Microsoft 365 Business Basic (Annual Pre-Paid),TERMINATED,18/05/2020,,18/05/2021,Annually,Annually,1200054231,Grahame Christian,1
+212955,Fusion Tech,,18fac57a-64ef-4243-a59d-c6707ff0cd71,1144603,Microsoft 365 Business Standard (CSP COM 1YR ANN),TERMINATED,05/05/2021,,05/05/2025,Annually,Annually,1200054231,Grahame Christian,1
+212955,Fusion Tech,,2966d9be-048e-41af-b89c-f84a054dcace,1107635,Microsoft 365 Apps for Business (Annual Pre-Paid),TERMINATED,29/06/2020,,29/06/2021,Annually,Annually,1200054231,Grahame Christian,1
+212955,Fusion Tech,,bbee5eb9-aefd-463f-a461-691c70551c04,1198896,Exchange Online (Plan 1) (NCE COM ANN),TERMINATED,16/05/2022,,16/05/2024,Annually,Annually,1200100455,Hardcore,1
+212955,Fusion Tech,,6517bb56-604b-4486-84c2-ab008d8a42ce,1373026,Microsoft 365 Business Standard (NCE COM MTH),TERMINATED,20/08/2024,19/09/2024,20/09/2024,Monthly,Monthly,1200100455,Hardcore,1
+212955,Fusion Tech,,9be2f711-bd93-4fee-9730-c8a2d6d2f32b,1232471,Exchange Online (Plan 1) (NCE COM ANN),TERMINATED,31/10/2022,,31/10/2023,Annually,Annually,1200107332,Herman Roodt,1
+212955,Fusion Tech,,d12c9afa-bfaf-4fd7-aa0d-dedacc8fb5ff,1263388,Microsoft 365 Business Standard (NCE COM ANN),TERMINATED,03/04/2023,,03/04/2025,Annually,Annually,1200107332,Herman Roodt,1
+212955,Fusion Tech,72609,1b5fcc4f-434a-47e6-9dfb-fe51b0714be5,1412138,Microsoft 365 Business Basic (NCE COM ANN),ACTIVE,09/03/2025,08/03/2026,09/03/2026,Annually,Annually,1200107332,Herman Roodt,1
+212955,Fusion Tech,,ae1f9f05-990d-4d80-a775-7787f10a65e6,1369469,Microsoft 365 Business Standard (NCE COM ANN),ACTIVE,01/08/2024,31/07/2026,01/08/2026,Annually,Annually,1200107332,Herman Roodt,1
+212955,Fusion Tech,,a08e4d54-96a3-4c60-a606-d5e0e7864286,1336764,Microsoft 365 Business Basic (NCE COM ANN),TERMINATED,06/03/2024,,06/03/2025,Annually,Annually,1200107332,Herman Roodt,1
+212955,Fusion Tech,,50039908-d58d-477b-a527-40d9d695aabb,1037361,Exchange Online (Plan 1) (Annual Pre-Paid),TERMINATED,29/11/2017,,29/11/2022,Annually,Annually,1200023723,Hornby Day Care Trust for the Elderly,2
+212955,Fusion Tech,,8ecf1edc-4f41-424d-b7bb-7975d027a6fd,1065169,Office 365 Business Essentials (Monthly Pre-Paid),TERMINATED,23/01/2019,,23/01/2022,Annually,Monthly,1200037189,IMS Racing,2
+212955,Fusion Tech,,964b4c74-6ebc-435e-9464-93eff3e14dce,1065205,Office 365 Business Premium (Monthly Pre-Paid),TERMINATED,24/01/2019,,24/01/2022,Annually,Monthly,1200037189,IMS Racing,8
+212955,Fusion Tech,,8485ec6d-4337-4181-bcfa-bc2d96f01cee,1052664,Office 365 Business Essentials (Monthly Pre-Paid),TERMINATED,19/07/2018,,19/07/2019,Annually,Monthly,1200015009,Instyle Design,0
+212955,Fusion Tech,,4ce55ec5-5042-4893-803e-23b9a4412e35,1052273,Office 365 Business Premium (Monthly Pre-Paid),TERMINATED,12/07/2018,,12/07/2019,Annually,Monthly,1200015009,Instyle Design,1
+212955,Fusion Tech,,5ce2a7bb-c5bf-4b8f-809f-a20f20cbd593,1064109,Office 365 Business Premium (Annual Pre-Paid),TERMINATED,06/01/2019,,06/01/2023,Annually,Annually,1200015009,Instyle Design,1
+212955,Fusion Tech,,ec61044b-25ff-473e-8aba-0b5203c9a595,1022265,Office 365 Business Essentials (Annual Pre-Paid),TERMINATED,14/03/2017,12/03/2019,14/03/2019,Annually,Annually,1200015009,Instyle Design,0
+212955,Fusion Tech,,91167df2-d322-4362-8aa2-de56d242232d,1022266,Office 365 Business Premium (Annual Pre-Paid),TERMINATED,14/03/2017,12/03/2019,14/03/2019,Annually,Annually,1200015009,Instyle Design,0
+212955,Fusion Tech,,c1155e3e-618d-4bfa-bf3e-f6b9ec60a68c,1275498,Microsoft 365 Apps for business (NCE COM MTH),TERMINATED,19/05/2023,,19/05/2024,Annually,Monthly,1200015564,International Entertainment,1
+212955,Fusion Tech,,77649750-546c-48bc-bc37-dd60c41a1076,1023216,Office 365 Business Premium (Annual Pre-Paid),TERMINATED,30/03/2017,,30/03/2025,Annually,Annually,1200015564,International Entertainment,2
+212955,Fusion Tech,,ddfdb772-fd83-49c1-9d50-dfe0db58872c,1024333,Office 365 Business Essentials (Monthly Pre-Paid),TERMINATED,20/04/2017,,20/04/2024,Annually,Monthly,1200015564,International Entertainment,3
+212955,Fusion Tech,,ab17b179-b09d-4bb2-b996-291c21c60d0b,1308449,Dropbox Biz: Standard - 3 licenses included (Monthly),TERMINATED,28/09/2023,,28/12/2023,Monthly,Monthly,1200047268,JK Installations,6
+212955,Fusion Tech,,0883773e-42d8-405c-8f88-db5f5af2859e,1090931,Office 365 Business (Monthly Pre-Paid),TERMINATED,06/01/2020,,06/01/2024,Annually,Monthly,1200047268,JK Installations,1
+212955,Fusion Tech,,57522910-0e8b-40fd-a2fa-5daec5d4cf31,1090930,Office 365 Business Essentials (Monthly Pre-Paid),TERMINATED,06/01/2020,,06/01/2024,Annually,Monthly,1200047268,JK Installations,11
+212955,Fusion Tech,,aabbcb28-2d75-4880-9c13-6ce474d6b36f,1091411,Office 365 Business Premium (Monthly Pre-Paid),TERMINATED,13/01/2020,,13/01/2024,Annually,Monthly,1200047268,JK Installations,3
+212955,Fusion Tech,,745d94d9-df1b-4214-8ae8-3fb946729868,1088137,Dropbox Biz: Standard - 3 licenses included (Monthly),TERMINATED,21/11/2019,,21/12/2022,Monthly,Monthly,1200047268,JK Installations,3
+212955,Fusion Tech,,feeb20ae-61e1-4113-832e-30459be2c3d1,1204163,Exchange Online (Plan 1) (NCE COM MTH),TERMINATED,14/06/2022,,14/09/2024,Monthly,Monthly,1200019514,JRC Builders of Distinction,4
+212955,Fusion Tech,,5d68607d-1935-4674-99f7-e8f1eea2fcf3,1375737,Microsoft 365 Business Basic (NCE COM MTH),ACTIVE,02/09/2024,01/09/2026,02/09/2026,Annually,Monthly,1200019514,JRC Builders of Distinction,1
+212955,Fusion Tech,,f5452676-3b8a-4b8f-900b-b23046816e6b,1374453,Exchange Online Archiving for Exchange Online (NCE COM MTH),ACTIVE,28/08/2024,27/02/2026,28/02/2026,Monthly,Monthly,1200019514,JRC Builders of Distinction,1
+212955,Fusion Tech,,f95b87ab-72be-49f3-bb51-38bb9c54b0a9,1375770,Microsoft 365 Business Standard (NCE COM MTH),ACTIVE,02/09/2024,01/09/2026,02/09/2026,Annually,Monthly,1200019514,JRC Builders of Distinction,7
+212955,Fusion Tech,,17a31356-58c4-4993-b93a-52bfcc82c6af,1383481,Exchange Online (Plan 1) (NCE COM MTH),ACTIVE,01/10/2024,28/02/2026,01/03/2026,Monthly,Monthly,1200019514,JRC Builders of Distinction,4
+212955,Fusion Tech,72681,e4c70ed5-3c2b-4afc-b659-5a552e049072,1377241,Project Plan 3 (NCE COM MTH),ACTIVE,11/09/2024,10/03/2026,11/03/2026,Monthly,Monthly,1200019514,JRC Builders of Distinction,4
+212955,Fusion Tech,,fdf73f2c-6791-4eaf-b7fa-b1912ac7cf83,1046357,Project Online Professional (Monthly Pre-Paid),TERMINATED,10/05/2018,08/05/2024,10/05/2024,Annually,Monthly,1200019514,JRC Builders of Distinction,4
+212955,Fusion Tech,,49411079-974b-43d0-a6eb-fb6379ea793c,1033169,Office 365 Business Premium (Monthly Pre-Paid),TERMINATED,21/09/2017,19/09/2024,21/09/2024,Annually,Monthly,1200019514,JRC Builders of Distinction,7
+212955,Fusion Tech,,e48eae22-40b8-41bb-897d-77b330a00588,1033168,Office 365 Business Essentials (Monthly Pre-Paid),TERMINATED,21/09/2017,19/09/2024,21/09/2024,Annually,Monthly,1200019514,JRC Builders of Distinction,1
+212955,Fusion Tech,,8721c449-c2a7-4a57-934c-aa5290e18c5a,1030045,Dropbox Business: Standard (Monthly),ACTIVE,30/07/2017,29/07/2026,30/07/2026,Annually,Monthly,1200019514,JRC Builders of Distinction,9
+212955,Fusion Tech,,33db0554-13e3-49b1-b561-f44cc7e452ab,1290161,Microsoft 365 Business Standard (NCE COM ANN),ACTIVE,17/07/2023,,16/07/2026,Annually,Annually,1200057477,Kidz and Crayonz,2
+212955,Fusion Tech,,700fb4ed-9327-4e23-a1e9-8027e5e7dea5,1111618,Microsoft 365 Business Basic (Annual Pre-Paid),TERMINATED,04/08/2020,,04/08/2023,Annually,Annually,1200057477,Kidz and Crayonz,2
+212955,Fusion Tech,,c3989075-d500-4bbd-af49-c271d9222030,1111659,Microsoft 365 Apps for Business (Annual Pre-Paid),TERMINATED,05/08/2020,,05/08/2023,Annually,Annually,1200057477,Kidz and Crayonz,1
+212955,Fusion Tech,,6b50dd00-f7ac-4fb2-ad46-c11f8c9b6448,1046309,Office 365 Business Essentials (Annual Pre-Paid),TERMINATED,10/05/2018,,10/05/2024,Annually,Annually,1200016677,Laser Cutting,3
+212955,Fusion Tech,,ea665470-8550-45e7-ac16-2ca198b931e3,1025080,Office 365 Business Premium (Annual Pre-Paid),TERMINATED,07/05/2017,,07/05/2024,Annually,Annually,1200016677,Laser Cutting,1
+212955,Fusion Tech,,3a9f1755-6835-4b83-b387-5617aecb3d32,1245426,Microsoft 365 Apps for business (NCE COM MTH),TERMINATED,10/01/2023,,10/01/2024,Annually,Monthly,1200056387,Lenco Sports,1
+212955,Fusion Tech,,18958c2e-188c-46e8-a90e-942138aac00d,1331291,Microsoft 365 Business Basic (NCE COM ANN),TERMINATED,08/02/2024,,08/02/2025,Annually,Annually,1200056387,Lenco Sports,5
+212955,Fusion Tech,,5145f0c7-742d-472a-97fb-5be966eb9938,1108736,Microsoft 365 Business Basic (Monthly Pre-Paid),TERMINATED,08/07/2020,,08/07/2024,Annually,Monthly,1200056387,Lenco Sports,5
+212955,Fusion Tech,,b0ee9a8a-43f5-4f77-80dc-5d4654554700,1331290,Microsoft 365 Apps for business (NCE COM ANN),TERMINATED,08/02/2024,,08/02/2025,Annually,Annually,1200056387,Lenco Sports,1
+212955,Fusion Tech,,06a0b357-92b7-41e9-b69f-f5303846fd6e,1126375,Microsoft 365 Apps for business (CSP COM 1YR MTH),TERMINATED,23/10/2020,21/10/2022,23/10/2022,Annually,Monthly,1200056387,Lenco Sports,1
+212955,Fusion Tech,,7d05a98c-6584-4895-8521-373c02d09c05,1311663,Microsoft 365 Business Standard (NCE COM MTH),TERMINATED,18/10/2023,,18/10/2024,Annually,Monthly,1200120182,Liquorice,6
+212955,Fusion Tech,,a9028966-bc88-4e9c-a7cc-aa7bf321d6a2,1307703,Microsoft 365 Business Standard Trial (NCE COM MTH),TERMINATED,22/09/2023,,22/10/2023,Monthly,Monthly,1200120182,Liquorice,25
+212955,Fusion Tech,,55554fac-132a-4cf5-8ddf-55f511d533f0,1313576,Microsoft 365 Business Standard (NCE COM MTH),TERMINATED,30/10/2023,,30/10/2024,Annually,Monthly,1200120182,Liquorice,5
+212955,Fusion Tech,73074,0bf28249-e74c-48ef-87b5-cd7903615808,1389499,Microsoft 365 Business Standard (NCE COM MTH),ACTIVE,01/11/2024,28/02/2026,01/03/2026,Monthly,Monthly,1200120182,Liquorice,7
+212955,Fusion Tech,,07257536-a7cd-46a1-8324-dcb2f9561f1d,1202766,Windows Server 2022 Remote Desktop Services - 1 Device CAL (NCE COM BAS PER 1TM),ACTIVE,06/06/2022,,06/06/2032,Annually,Annually,1200020620,Maison,8
+212955,Fusion Tech,,6c5d3a8f-5b71-498a-b690-b6842b94530e,1192712,Azure Active Directory Premium P2 (NCE COM MTH),ACTIVE,31/03/2022,29/03/2026,30/03/2026,Annually,Monthly,1200020620,Maison,1
+212955,Fusion Tech,,ddf242ff-9997-4d4f-bb85-0a75ac23622b,1378242,Exchange Online (Plan 1) (NCE COM MTH),ACTIVE,17/09/2024,16/09/2026,17/09/2026,Annually,Monthly,1200020620,Maison,2
+212955,Fusion Tech,,caae1a51-6537-46d4-8a6c-b1f05cd9427e,1376107,Exchange Online (Plan 2) (NCE COM MTH),ACTIVE,04/09/2024,02/09/2026,03/09/2026,Annually,Monthly,1200020620,Maison,1
+212955,Fusion Tech,,1601aded-cb0a-4b4f-b8f9-7b0f40c4fd0d,1436950,Microsoft 365 Business Standard (NCE COM MTH),ACTIVE,24/07/2025,16/09/2026,17/09/2026,Annually,Monthly,1200020620,Maison,1
+212955,Fusion Tech,,e2ad8057-e06e-4dbc-8402-14d446583e5e,1378276,Microsoft 365 Business Basic (NCE COM MTH),ACTIVE,17/09/2024,16/09/2026,17/09/2026,Annually,Monthly,1200020620,Maison,6
+212955,Fusion Tech,,0734de4c-18b0-4c78-a381-af26f161d59a,1370137,Microsoft 365 Business Standard (NCE COM MTH),ACTIVE,05/08/2024,04/08/2026,05/08/2026,Annually,Monthly,1200020620,Maison,32
+212955,Fusion Tech,,134f5756-be21-4b67-ab43-65c29deba1d5,1057927,Office 365 Business Essentials (Monthly Pre-Paid),TERMINATED,08/10/2018,06/10/2024,08/10/2024,Annually,Monthly,1200020620,Maison,7
+212955,Fusion Tech,,31044dae-ed41-44b3-becb-6b39b00cda02,1032042,Office 365 Business Premium (Monthly Pre-Paid),TERMINATED,01/09/2017,30/08/2024,01/09/2024,Annually,Monthly,1200020620,Maison,32
+212955,Fusion Tech,,c8692351-c58c-4487-937e-1fdf549d438f,1034002,Exchange Online (Plan 1) (Monthly Pre-Paid),TERMINATED,06/10/2017,04/10/2024,06/10/2024,Annually,Monthly,1200020620,Maison,2
+212955,Fusion Tech,,ba547893-3468-42c5-8063-29bb3da99740,1062323,Office 365 Business Essentials (Monthly Pre-Paid),TERMINATED,05/12/2018,,05/12/2023,Annually,Monthly,1200035795,Majestic Horse Floats,11
+212955,Fusion Tech,,673c3ade-ed56-498f-b0f8-80404a557291,1062324,Office 365 Business Premium (Monthly Pre-Paid),TERMINATED,05/12/2018,,05/12/2023,Annually,Monthly,1200035795,Majestic Horse Floats,22
+212955,Fusion Tech,,0efbe8a9-ee40-40ac-a885-bdc0b8519e7a,1064283,Office 365 Business Premium (Monthly Pre-Paid),TERMINATED,09/01/2019,,09/01/2021,Annually,Monthly,1200018130,Maygrove Village,3
+212955,Fusion Tech,,9a43f721-2818-449b-b07c-d13ad94893a2,1033173,Office 365 Business (Annual Pre-Paid),TERMINATED,21/09/2017,,21/09/2020,Annually,Annually,1200018130,Maygrove Village,1
+212955,Fusion Tech,,c9f8c238-c796-4ea8-b361-259d24509f94,1036458,Office 365 Business Essentials (Monthly Pre-Paid),TERMINATED,12/11/2017,,12/11/2020,Annually,Monthly,1200018130,Maygrove Village,14
+212955,Fusion Tech,,9fb3385c-660d-4818-a489-94e792726d1b,1027582,Acronis Backup Cloud with 500 GB File Storage,TERMINATED,19/06/2017,,19/05/2020,Monthly,Monthly,1200018130,Maygrove Village,5100
+212955,Fusion Tech,,4d4df73f-d431-46fa-b232-79d70715c15c,1030907,Office 365 Business Essentials (Monthly Pre-Paid),TERMINATED,13/08/2017,11/08/2018,13/08/2018,Annually,Monthly,1200020010,Minimum Wage,4
+212955,Fusion Tech,72608,da5e6f6f-ffcf-421a-bf77-98d1b82cfcdf,1412131,Exchange Online (Plan 1) (NCE COM ANN),ACTIVE,09/03/2025,,09/03/2026,Annually,Annually,1200080375,MotoMotive,1
+212955,Fusion Tech,,a02e202e-63c9-40da-90a8-84002e043b09,1139018,Exchange Online (Plan 1) (CSP COM 1YR ANN),TERMINATED,09/03/2021,,09/03/2024,Annually,Annually,1200080375,MotoMotive,1
+212955,Fusion Tech,,3b53f769-d97d-40e6-9e0f-0e7029f83887,1337387,Exchange Online (Plan 1) (NCE COM ANN),TERMINATED,08/03/2024,,08/03/2025,Annually,Annually,1200080375,MotoMotive,1
+212955,Fusion Tech,,5d2c0417-f82a-44b3-859d-e73f084c3417,1228810,Exchange Online (Plan 2) (NCE COM MTH),TERMINATED,10/10/2022,,10/10/2023,Annually,Monthly,1200036955,Mutual Financial Services,1
+212955,Fusion Tech,,a3bffddf-5f95-42f1-bb9c-53e89028ca98,1260231,Microsoft 365 Business Basic (NCE COM MTH),TERMINATED,21/03/2023,,21/04/2023,Monthly,Monthly,1200036955,Mutual Financial Services,4
+212955,Fusion Tech,,864def1d-5abc-4840-929c-e05b4a1819df,1260232,Microsoft 365 Business Standard (NCE COM MTH),TERMINATED,21/03/2023,,21/04/2023,Monthly,Monthly,1200036955,Mutual Financial Services,4
+212955,Fusion Tech,,2387288e-fe85-4c40-b138-ff6f6421e6a5,1104030,Microsoft 365 Business Standard (Monthly Pre-Paid),TERMINATED,22/05/2020,,22/05/2023,Annually,Monthly,1200036955,Mutual Financial Services,8
+212955,Fusion Tech,,1e60041e-6196-4afa-9510-13477d3555f8,1064692,Office 365 Business Essentials (Monthly Pre-Paid),TERMINATED,16/01/2019,,16/01/2024,Annually,Monthly,1200036955,Mutual Financial Services,11
+212955,Fusion Tech,,9f5eec79-713e-4133-953f-6778c1bf2d6f,1263215,Microsoft 365 Apps for business (NCE COM MTH),TERMINATED,31/03/2023,,30/06/2023,Monthly,Monthly,1200113632,Mutual Financial Support Services,3
+212955,Fusion Tech,MT210124,b36a7fb1-8750-49be-ac35-04113a9b91e4,1386982,Microsoft 365 Apps for business (NCE COM ANN),TERMINATED,21/10/2024,,21/10/2025,Annually,Annually,1200146604,My Time,1
+212955,Fusion Tech,,06c85a7d-83bd-4d84-bde1-a010c028caa9,1059193,Office 365 Business (Annual Pre-Paid),TERMINATED,26/10/2018,,26/10/2024,Annually,Annually,1200030075,My Time,1
+212955,Fusion Tech,,5a3d775f-b8f1-4c0f-bea0-fbb22b4bb002,1050132,Office 365 Business Premium (Monthly Pre-Paid),TERMINATED,19/06/2018,17/06/2019,19/06/2019,Annually,Monthly,1200030075,My Time,0
+212955,Fusion Tech,,3ff4b6b5-58e7-4587-a049-a15bdfdd01bc,1050299,Office 365 Business Essentials (Monthly Pre-Paid),TERMINATED,20/06/2018,,20/06/2024,Annually,Monthly,1200030075,My Time,4
+212955,Fusion Tech,NICK250325,0f30f32d-11d4-4bf8-88c3-ac7cc1013c87,1415011,Microsoft 365 Business Standard Trial (NCE COM MTH),TERMINATED,25/03/2025,,25/04/2025,Monthly,Monthly,1200158092,Nick Houlding,25
+212955,Fusion Tech,72726,a3bea82a-0c0c-4d8c-9faa-7881e86f0349,1427061,Microsoft 365 Business Standard (NCE COM MTH),ACTIVE,29/05/2025,,06/06/2026,Annually,Monthly,1200158092,Nick Houlding,1
+212955,Fusion Tech,72726,24b2690a-2fc1-4ebf-9e68-9eedf659c3ef,1427058,Microsoft 365 Business Standard Trial (NCE COM MTH),TERMINATED,,,,Monthly,Monthly,1200158092,Nick Houlding,0
+212955,Fusion Tech,,ede01f70-99f0-496c-937f-94aeb8f55da0,1305300,Office 365 E3 Trial (NCE COM MTH),TERMINATED,11/09/2023,,11/10/2023,Monthly,Monthly,1200118095,Outset Systematics Limited,25
+212955,Fusion Tech,,9b986864-9f90-4fbc-bbad-a5cd1b69c27b,1315868,Microsoft 365 Business Standard (NCE COM MTH),TERMINATED,13/11/2023,12/11/2024,13/11/2024,Annually,Monthly,1200118095,Outset Systematics Limited,7
+212955,Fusion Tech,,4b3c8124-b818-4750-970a-fd985804c63b,1315871,Microsoft 365 Business Basic (NCE COM ANN),TERMINATED,13/11/2023,,13/11/2024,Annually,Annually,1200118095,Outset Systematics Limited,7
+212955,Fusion Tech,,a214bb0c-2278-42c7-a2fb-1ceb5b676bd0,1295981,Microsoft 365 Business Standard Trial (NCE COM MTH),TERMINATED,08/08/2023,,08/09/2023,Monthly,Monthly,1200118095,Outset Systematics Limited,25
+212955,Fusion Tech,,25f98110-6390-4d01-8cc4-6739f454199f,1337946,Microsoft 365 Business Standard (NCE COM MTH),TERMINATED,12/03/2024,,12/03/2025,Annually,Monthly,1200052007,Outset Systematics Limited,3
+212955,Fusion Tech,,e5f20821-2ffc-4b56-8fdd-e7aae0f0af6e,1337979,Microsoft 365 Business Basic (NCE COM MTH),TERMINATED,12/03/2024,,12/03/2025,Annually,Monthly,1200052007,Outset Systematics Limited,7
+212955,Fusion Tech,OSL181124,5c6adcd2-a2be-45d5-8a3f-46f3033fe00e,1392063,Microsoft 365 Business Basic (no Teams) (NCE COM ANN),TERMINATED,17/11/2024,,17/11/2025,Annually,Annually,1200118095,Outset Systematics Limited,7
+212955,Fusion Tech,,7957c035-c4ff-4282-bd18-0d976aa71d31,1098208,Office 365 Business Premium (Monthly Pre-Paid),TERMINATED,06/04/2020,04/04/2024,06/04/2024,Annually,Monthly,1200052007,Outset Systematics Limited,3
+212955,Fusion Tech,,ceb10d35-478a-40fe-8551-c033e825ff87,1098207,Office 365 Business Essentials (Monthly Pre-Paid),TERMINATED,06/04/2020,04/04/2024,06/04/2024,Annually,Monthly,1200052007,Outset Systematics Limited,7
+212955,Fusion Tech,BULDIN041225,0a147d37-86d7-465a-8ed5-0ee09aaf80a1,1462592,Microsoft 365 Business Standard (NCE COM ANN),ACTIVE,03/12/2025,,03/12/2026,Annually,Annually,1200022448,Peace of Mind Building Inspections,1
+212955,Fusion Tech,,57ccb5f2-7c1e-412c-9a93-4572542c6cae,1057785,Office 365 Business Premium (Annual Pre-Paid),TERMINATED,05/10/2018,,05/10/2024,Annually,Annually,1200022448,Peace of Mind Building Inspections,2
+212955,Fusion Tech,POM14012026,26f51dbb-3efd-4e88-aaf8-98f695ff4a26,1467449,Dropbox Business (Monthly),ACTIVE,14/01/2026,13/02/2026,14/02/2026,Monthly,Monthly,1200022448,Peace of Mind Building Inspections,4
+212955,Fusion Tech,,e41c7af7-d173-4959-914e-d0121de1db8c,1035304,Acronis Backup Cloud with 50 GB File Storage,TERMINATED,25/10/2017,,25/10/2022,Annually,Monthly,1200022448,Peace of Mind Building Inspections,5010
+212955,Fusion Tech,,9dc78eb4-fa38-46b2-ad57-1518e1e63957,1198024,Dropbox Biz: Standard - 3 licenses included (Monthly),ACTIVE,10/05/2022,09/03/2026,10/03/2026,Monthly,Monthly,1200057490,Peers Brown Miller,12
+212955,Fusion Tech,,dad444b8-3100-4114-8f25-960c58c77650,1194235,Dropbox Biz: Standard - 3 licenses included (30 day trial),TERMINATED,08/04/2022,,08/05/2022,30 DAYS,Monthly,1200057490,Peers Brown Miller,12
+212955,Fusion Tech,,e17197de-a7ed-418b-8035-55b06bccd90a,1364707,Microsoft 365 Business Standard (NCE COM MTH),ACTIVE,08/07/2024,,08/07/2026,Annually,Monthly,1200057490,Peers Brown Miller,11
+212955,Fusion Tech,,2b2b6e0c-4386-4c43-afa8-5a5372988140,1364740,Microsoft 365 Business Basic (NCE COM MTH),ACTIVE,08/07/2024,,08/07/2026,Annually,Monthly,1200057490,Peers Brown Miller,3
+212955,Fusion Tech,,8f19dfc2-ee8e-4b39-96b7-45800e729910,1111640,Microsoft 365 Business Standard (Monthly Pre-Paid),TERMINATED,05/08/2020,03/08/2024,05/08/2024,Annually,Monthly,1200057490,Peers Brown Miller,11
+212955,Fusion Tech,,46839090-ead5-4420-a4b2-1a3b81bddcaf,1111639,Microsoft 365 Business Basic (Monthly Pre-Paid),TERMINATED,05/08/2020,03/08/2024,05/08/2024,Annually,Monthly,1200057490,Peers Brown Miller,3
+212955,Fusion Tech,72837,65a4ff4c-c051-417d-9413-4879b9ebe742,1436341,Microsoft 365 Business Standard (no Teams) Trial (NCE COM MTH),TERMINATED,21/07/2025,,21/08/2025,Monthly,Monthly,1200165369,Peter Alderton,25
+212955,Fusion Tech,73014,01a068a6-ff1d-4dff-bf60-795b4f17c8a0,1450464,Microsoft 365 Business Standard (NCE COM ANN),ACTIVE,12/10/2025,11/10/2026,12/10/2026,Annually,Annually,1200165369,Peter Alderton,1
+212955,Fusion Tech,,caa74fa1-0444-49d4-9fa4-fce949bbedb4,1149095,Microsoft 365 Business Basic (CSP COM 1YR MTH),TERMINATED,17/06/2021,15/06/2022,17/06/2022,Annually,Monthly,1200054094,Pukekohe Chiropractor,1
+212955,Fusion Tech,,12e3bf7a-39ed-46ea-94d7-f5a366c1e1d0,1149361,Microsoft 365 Business Standard (CSP COM 1YR MTH),TERMINATED,21/06/2021,,21/06/2024,Annually,Monthly,1200054094,Pukekohe Chiropractor,2
+212955,Fusion Tech,,22d84d23-d2bb-4b40-b668-d5aea5fa46e5,1103300,Microsoft 365 Apps for Business (Annual Pre-Paid),TERMINATED,14/05/2020,,14/05/2022,Annually,Annually,1200054094,Pukekohe Chiropractor,1
+212955,Fusion Tech,73170,509199e3-d557-416f-82ef-d7f7c6046efd,1468859,Exchange Online (Plan 1) (NCE COM ANN),ACTIVE,22/01/2026,,22/01/2027,Annually,Annually,1200054094,Pukekohe Chiropractor,1
+212955,Fusion Tech,72636,2ce5074c-f0cf-4408-9ae3-26e9ad15df00,1416209,Microsoft 365 Business Standard (NCE COM MTH),TERMINATED,31/03/2025,30/03/2026,31/03/2026,Annually,Monthly,1200158735,Rand Group Ltd,5
+212955,Fusion Tech,72647,7abc430f-af83-4252-a2ed-60a3697b1769,1417170,Microsoft 365 Business Standard (NCE COM MTH),ACTIVE,04/04/2025,03/03/2026,04/03/2026,Monthly,Monthly,1200158735,Rand Group Ltd,4
+212955,Fusion Tech,72636,c8f84870-0415-4a8d-b628-520e05df7d32,1416207,Exchange Online Archiving for Exchange Online (NCE COM MTH),TERMINATED,31/03/2025,29/04/2025,30/04/2025,Monthly,Monthly,1200158735,Rand Group Ltd,11
+212955,Fusion Tech,72636,a399eb14-22c3-4956-b98a-ac18e88641f3,1416208,Exchange Online (Plan 2) (NCE COM MTH),ACTIVE,31/03/2025,27/02/2026,28/02/2026,Monthly,Monthly,1200158735,Rand Group Ltd,2
+212955,Fusion Tech,73192,aced11f3-14e0-4c28-89d2-bb9cec02d647,1416218,Exchange Online (Plan 1) (NCE COM MTH),ACTIVE,31/03/2025,27/02/2026,28/02/2026,Monthly,Monthly,1200158735,Rand Group Ltd,12
+212955,Fusion Tech,,c6dff644-2f5f-451c-8dad-c0d0257706e9,1324772,Microsoft 365 Business Standard (NCE COM MTH),TERMINATED,02/01/2024,,02/01/2025,Annually,Monthly,1200013303,Random Fashions,4
+212955,Fusion Tech,73029,e87fb6da-9146-48f6-afe7-881de1904a30,1406188,Microsoft 365 Business Standard (NCE COM MTH),TERMINATED,09/02/2025,,09/01/2026,Monthly,Monthly,1200013303,Random Fashions,2
+212955,Fusion Tech,,23f49716-29d5-4e04-b46f-84733c2e6d94,1092222,Office 365 Business Premium (Monthly Pre-Paid),TERMINATED,24/01/2020,22/01/2024,24/01/2024,Annually,Monthly,1200013303,Random Fashions,4
+212955,Fusion Tech,,171edb78-5371-4d4d-a824-502baa924d1f,1056675,Dropbox Business: Standard (Annual/Monthly Billed),TERMINATED,17/09/2018,,17/09/2025,Annually,Monthly,1200013303,Random Fashions,3
+212955,Fusion Tech,RANDOM090226,b127f8e2-2767-4678-b427-06c8be0cd15a,1471571,Microsoft 365 Business Standard (NCE COM ANN),ACTIVE,08/02/2026,07/02/2027,08/02/2027,Annually,Annually,1200013303,Random Fashions,1
+212955,Fusion Tech,,a774e779-bb86-4150-bde8-cceef94a78b9,1019614,Office 365 Business Premium (Annual Pre-Paid),TERMINATED,23/01/2017,,23/01/2020,Annually,Annually,1200013303,Random Fashions,5
+212955,Fusion Tech,,e49a9eb7-8d1a-4545-b498-e4d078040635,1240191,Microsoft 365 Business Basic (NCE COM ANN),TERMINATED,12/12/2022,,12/12/2024,Annually,Annually,1200110282,Refined Staging,1
+212955,Fusion Tech,,75f41615-ff1a-4596-b6f0-55ed1a6f21a7,1326631,Microsoft 365 Business Standard Trial (NCE COM MTH),TERMINATED,15/01/2024,,15/02/2024,Monthly,Monthly,1200110282,Refined Staging,25
+212955,Fusion Tech,,7413ac0e-c4a1-423b-9b3f-02cf0faeb965,1326675,Microsoft 365 Business Basic (NCE COM ANN),TERMINATED,16/01/2024,,16/01/2025,Annually,Annually,1200110282,Refined Staging,1
+212955,Fusion Tech,,a7af95ed-9f83-4d27-a84f-1ba5f310b346,1150409,Microsoft 365 Business Basic (CSP COM 1YR MTH),TERMINATED,29/06/2021,27/06/2024,29/06/2024,Annually,Monthly,1200084832,Ren Group,1
+212955,Fusion Tech,,f45e9367-3b6e-4f5f-9cc6-d8d3f0bf68ca,1139013,Microsoft 365 Business Basic (CSP COM 1YR ANN),TERMINATED,09/03/2021,,09/03/2023,Annually,Annually,1200080372,Rocking Green,1
+212955,Fusion Tech,,8ac97e59-1275-4f5b-af1e-e69946aad4bf,1088551,Exchange Online (Plan 1) (Annual Pre-Paid),TERMINATED,27/11/2019,,27/11/2021,Annually,Annually,1200047510,Secure Power,2
+212955,Fusion Tech,72670,818415b0-34b1-4a15-aa08-aa73070f9275,1420296,Microsoft 365 Business Basic (NCE COM ANN),ACTIVE,23/04/2025,,23/04/2026,Annually,Annually,1200016421,Shoot Edit Video,3
+212955,Fusion Tech,,418581bc-a531-48ee-841e-451765ab0157,1350907,Microsoft 365 Business Basic (NCE COM ANN),TERMINATED,22/04/2024,,22/04/2025,Annually,Annually,1200016421,Shoot Edit Video,3
+212955,Fusion Tech,,058d28fc-b606-460e-bb75-3074fd26b778,1024618,Office 365 Business Essentials (Annual Pre-Paid),TERMINATED,27/04/2017,,27/04/2024,Annually,Annually,1200016421,Shoot Edit Video,3
+212955,Fusion Tech,,97e1e9ed-a36f-48b5-ba4b-455485d17c88,1236548,Visio Plan 2 (NCE COM MTH),TERMINATED,23/11/2022,,23/03/2023,Monthly,Monthly,1200024300,Smart Environmental Ltd,1
+212955,Fusion Tech,,eda8b04d-0647-4c81-af74-f82bfa62ce31,1197058,Azure Active Directory Premium P2 (NCE COM MTH),ACTIVE,02/05/2022,01/05/2026,02/05/2026,Annually,Monthly,1200024300,Smart Environmental Ltd,1
+212955,Fusion Tech,,33888df5-abbc-4ce3-a32c-5ab9f018aeae,1215434,Microsoft Defender for Office 365 (Plan 2) (NCE COM MTH),TERMINATED,24/07/2022,,24/07/2023,Annually,Monthly,1200024300,Smart Environmental Ltd,1
+212955,Fusion Tech,,223c229c-bb10-4c76-b101-7d2dc205eea5,1215435,Microsoft 365 E5 Security (NCE COM MTH),ACTIVE,24/07/2022,23/02/2026,24/02/2026,Monthly,Monthly,1200024300,Smart Environmental Ltd,1
+212955,Fusion Tech,,e514c37e-df7c-42a7-9663-2317895b5774,1160080,Intune (CSP COM 1YR MTH),TERMINATED,21/09/2021,19/09/2022,21/09/2022,Annually,Monthly,1200024300,Smart Environmental Ltd,1
+212955,Fusion Tech,,d0f2b770-c311-415d-b82f-807b79638ee7,1259599,Microsoft 365 Business Basic (NCE COM MTH),TERMINATED,20/03/2023,,20/03/2024,Annually,Monthly,1200024300,Smart Environmental Ltd,150
+212955,Fusion Tech,72911,f3b820a4-94a4-4fa1-8f17-e6d20097d264,1314549,Power BI Pro (NCE COM MTH),ACTIVE,04/11/2023,02/11/2026,03/11/2026,Annually,Monthly,1200024300,Smart Environmental Ltd,11
+212955,Fusion Tech,,eed26ada-7a33-4280-9bf7-f66f8d5d2f4f,1314827,Azure New Commerce Experience (NCE),ACTIVE,07/11/2023,04/03/2026,07/03/2026,Monthly,Monthly,1200024300,Smart Environmental Ltd,1
+212955,Fusion Tech,73142,e0d8db73-04e2-45f5-87a7-042ce609a58b,1306649,Exchange Online Archiving for Exchange Online (NCE COM MTH),ACTIVE,18/09/2023,17/02/2026,18/02/2026,Monthly,Monthly,1200024300,Smart Environmental Ltd,4
+212955,Fusion Tech,,ed51269d-16e8-4c00-8a22-4217adfb7e58,1254528,Visio Plan 2 (NCE COM MTH),ACTIVE,24/02/2023,23/02/2026,24/02/2026,Annually,Monthly,1200024300,Smart Environmental Ltd,2
+212955,Fusion Tech,GEOFF,e896c296-ee55-49f3-a580-be7cd57a4d81,1447087,Exchange Online Archiving for Exchange Online (NCE COM MTH),ACTIVE,22/09/2025,21/09/2026,22/09/2026,Annually,Monthly,1200024300,Smart Environmental Ltd,1
+212955,Fusion Tech,72977,9b451642-6deb-4fde-99f6-b1a1ab0e8da4,1444942,Planner and Project Plan 3 (NCE COM MTH),ACTIVE,08/09/2025,07/03/2026,08/03/2026,Monthly,Monthly,1200024300,Smart Environmental Ltd,4
+212955,Fusion Tech,,229630af-689b-4603-b63c-1f667e1380d8,1332069,Windows Server 2022 Standard - 16 Core License Pack (NCE COM BAS PER 1TM),ACTIVE,13/02/2024,,13/02/2034,Annually,Annually,1200024300,Smart Environmental Ltd,1
+212955,Fusion Tech,,5928ad9f-bdbb-4d0b-8659-d7c7fa797ea0,1333510,Microsoft 365 Business Standard (NCE COM MTH),ACTIVE,19/02/2024,18/02/2026,19/02/2026,Annually,Monthly,1200024300,Smart Environmental Ltd,190
+212955,Fusion Tech,,19ccad0e-ec02-4171-bc89-f2bee0736542,1369022,Office 365 E3 (NCE COM MTH),ACTIVE,30/07/2024,29/07/2026,30/07/2026,Annually,Monthly,1200024300,Smart Environmental Ltd,10
+212955,Fusion Tech,72972,e7f39283-f69c-43e8-99ba-38d0b3f431a2,1390108,Microsoft 365 Business Standard (NCE COM MTH),ACTIVE,06/11/2024,05/03/2026,06/03/2026,Monthly,Monthly,1200024300,Smart Environmental Ltd,10
+212955,Fusion Tech,72942,e72a7a5c-4223-4f89-ac0e-573d1f6fb0e7,1444934,Planner and Project Plan 3 (NCE COM MTH),TERMINATED,08/09/2025,07/09/2026,08/09/2026,Annually,Monthly,1200024300,Smart Environmental Ltd,3
+212955,Fusion Tech,72902,f8b91e1b-1a99-4dd9-86fd-018cfeeb7ff9,1440767,Microsoft Teams Rooms Pro (NCE COM MTH),ACTIVE,17/08/2025,16/02/2026,17/02/2026,Monthly,Monthly,1200024300,Smart Environmental Ltd,1
+212955,Fusion Tech,72774,e55afe45-630a-4c27-bc97-1adff382812a,1430798,Planner Plan 1 (NCE COM MTH),ACTIVE,19/06/2025,18/02/2026,19/02/2026,Monthly,Monthly,1200024300,Smart Environmental Ltd,2
+212955,Fusion Tech,73140,645d2fa1-461c-4058-86f0-49726afe139a,1426858,Microsoft 365 Copilot (NCE COM MTH),ACTIVE,28/05/2025,,28/05/2026,Annually,Monthly,1200024300,Smart Environmental Ltd,17
+212955,Fusion Tech,73061,20884d7e-7034-4d73-b481-c40336e6cf77,1450019,Power BI Pro (NCE COM MTH),ACTIVE,09/10/2025,08/03/2026,09/03/2026,Monthly,Monthly,1200024300,Smart Environmental Ltd,3
+212955,Fusion Tech,,1b98ad53-ed79-4c8e-a354-68d84fd944a5,1156476,Office 365 E3 (CSP COM 1YR MTH),TERMINATED,18/08/2021,16/08/2024,18/08/2024,Annually,Monthly,1200024300,Smart Environmental Ltd,10
+212955,Fusion Tech,,d68add29-83ae-4024-8a05-2c92f9aa4dc2,1144509,Exchange Online (Plan 1) (CSP COM 1YR MTH),TERMINATED,05/05/2021,03/05/2024,05/05/2024,Annually,Monthly,1200024300,Smart Environmental Ltd,228
+212955,Fusion Tech,,b8e0df08-6456-40fe-8a36-efd850cbd8b1,1339608,Windows Server 2022 Standard - 16 Core License Pack (NCE COM BAS PER 1TM),ACTIVE,21/03/2024,,21/03/2034,Annually,Annually,1200024300,Smart Environmental Ltd,1
+212955,Fusion Tech,,82217ffa-1f6a-43f3-9da7-76ce09cfa66d,1336222,Windows Server 2022 Remote Desktop Services - 1 Device CAL (NCE COM BAS PER 1TM),ACTIVE,04/03/2024,,04/03/2034,Annually,Annually,1200024300,Smart Environmental Ltd,30
+212955,Fusion Tech,72773,4993bb2b-a9da-4e38-ab9a-fb1361f08baa,1372162,Project Plan 3 (NCE COM MTH),TERMINATED,16/08/2024,15/08/2025,16/08/2025,Monthly,Monthly,1200024300,Smart Environmental Ltd,4
+212955,Fusion Tech,72678,aa4dec7a-73e1-4d65-b387-f4fb25277152,1375934,Copilot for Microsoft 365 (NCE COM ANN),TERMINATED,03/09/2024,,03/09/2025,Annually,Annually,1200024300,Smart Environmental Ltd,7
+212955,Fusion Tech,72501,c487f89f-93de-4db2-8e53-0ec989797e7f,1395190,Exchange Online Archiving for Exchange Online (NCE COM MTH),ACTIVE,03/12/2024,02/12/2026,03/12/2026,Annually,Monthly,1200024300,Smart Environmental Ltd,1
+212955,Fusion Tech,,d1e3464d-10c0-43cb-84a5-9029948d7a3f,1347571,Microsoft 365 Business Basic (NCE COM MTH),ACTIVE,03/04/2024,02/03/2026,03/03/2026,Monthly,Monthly,1200024300,Smart Environmental Ltd,12
+212955,Fusion Tech,73205,251da814-f158-4152-87d0-fff50c3beb72,1349083,Exchange Online (Plan 1) (NCE COM MTH),ACTIVE,11/04/2024,09/04/2026,10/04/2026,Annually,Monthly,1200024300,Smart Environmental Ltd,270
+212955,Fusion Tech,73206,4b06fefc-55de-4ff9-9bd8-0a560e050375,1333459,Microsoft 365 Business Basic (NCE COM MTH),ACTIVE,19/02/2024,18/02/2026,19/02/2026,Annually,Monthly,1200024300,Smart Environmental Ltd,110
+212955,Fusion Tech,,11aafef9-6c77-4e78-b2bc-f724feec1acb,1094181,Microsoft PowerApps P1 (Monthly Pre-Paid),TERMINATED,18/02/2020,,18/02/2022,Annually,Monthly,1200024300,Smart Environmental Ltd,1
+212955,Fusion Tech,,43099610-669c-4e2b-989e-daf0b2cde389,1096787,Project Plan 3 (Monthly Pre-Paid),TERMINATED,18/03/2020,16/03/2024,18/03/2024,Annually,Monthly,1200024300,Smart Environmental Ltd,2
+212955,Fusion Tech,SMART,7d51d1c6-392e-4726-8add-41eae7b8c7ba,1054764,Office 365 Enterprise E3 (Monthly Pre-Paid),TERMINATED,20/08/2018,18/08/2020,20/08/2020,Annually,Monthly,1200024300,Smart Environmental Ltd,1
+212955,Fusion Tech,SMARTWAIPUKURAU,5e89d114-e247-4c2e-bdba-59129dc9b842,1059096,Office 365 Business (Monthly Pre-Paid),TERMINATED,25/10/2018,23/10/2019,25/10/2019,Annually,Monthly,1200024300,Smart Environmental Ltd,1
+212955,Fusion Tech,,361261a5-7c12-491d-aa30-8bea9c450969,1080156,Acronis Backup for O365 - Unlimited (Trial),TERMINATED,12/08/2019,,11/09/2019,30 DAYS,Monthly,1200024300,Smart Environmental Ltd,0
+212955,Fusion Tech,,accdebed-041f-4663-b552-5bfac2f9dce3,1068865,Office 365 Business Premium (Monthly Pre-Paid),TERMINATED,18/03/2019,16/03/2024,18/03/2024,Annually,Monthly,1200024300,Smart Environmental Ltd,165
+212955,Fusion Tech,,689574e9-bd18-4094-b313-dc7fd4af5058,1077116,Visio Online Plan 2 (Monthly Pre-Paid),TERMINATED,02/07/2019,30/06/2022,02/07/2022,Annually,Monthly,1200024300,Smart Environmental Ltd,1
+212955,Fusion Tech,SMART-PETAR,f51916d0-7b4c-4c13-b5a4-1c667571830c,1065941,Power BI Pro (Monthly Pre-Paid),TERMINATED,05/02/2019,03/02/2024,05/02/2024,Annually,Monthly,1200024300,Smart Environmental Ltd,1
+212955,Fusion Tech,,ace0a5e8-08fe-43f1-b0bd-7d3b9ee4ca7c,1068864,Office 365 Business Essentials (Monthly Pre-Paid),TERMINATED,18/03/2019,16/03/2024,18/03/2024,Annually,Monthly,1200024300,Smart Environmental Ltd,13
+212955,Fusion Tech,,914b0fc9-b919-41fd-8a3d-bcffb55ca851,1077115,Visio Online Plan 1 (Monthly Pre-Paid),TERMINATED,02/07/2019,30/06/2020,02/07/2020,Annually,Monthly,1200024300,Smart Environmental Ltd,1
+212955,Fusion Tech,,834ac356-f9ec-40a1-aa4a-5e0ef485db67,1080157,Acronis Backup for O365 - Unlimited,TERMINATED,12/08/2019,11/12/2019,12/12/2019,Monthly,Monthly,1200024300,Smart Environmental Ltd,5000
+212955,Fusion Tech,72857,97c6394e-8de2-426f-b5bb-7484edd02663,1088288,Dropbox Biz: Standard - 3 licenses included (Annual/Monthly),ACTIVE,25/11/2019,24/11/2026,25/11/2026,Annually,Monthly,1200024300,Smart Environmental Ltd,14
+212955,Fusion Tech,,07d958bc-dcb0-4109-8159-35a741ccc61c,1038354,Office 365 Business Premium (Annual Pre-Paid),TERMINATED,15/12/2017,13/12/2019,15/12/2019,Annually,Annually,1200024300,Smart Environmental Ltd,1
+212955,Fusion Tech,,34985323-2dfa-4ea4-8599-87f7704ffdaa,1282329,Microsoft 365 Business Standard (NCE COM ANN),TERMINATED,19/06/2023,,19/06/2024,Annually,Annually,1200022999,Solutions Accounting,3
+212955,Fusion Tech,72702,f2b12912-1191-4579-bdfd-95603631f136,1423765,Microsoft 365 Apps for business (NCE COM MTH),ACTIVE,13/05/2025,12/05/2026,13/05/2026,Annually,Monthly,1200022999,Solutions Accounting,1
+212955,Fusion Tech,,bd5863d1-ee9d-4a9e-b701-5cfbdcfac64a,1107628,Microsoft 365 Apps for Business (Annual Pre-Paid),TERMINATED,28/06/2020,,28/06/2024,Annually,Annually,1200022999,Solutions Accounting,1
+212955,Fusion Tech,,56f683bf-3ddd-4691-b4c9-0fda146d975b,1090085,Dropbox Biz: Standard - 3 licenses included (Annual/Monthly),ACTIVE,16/12/2019,15/12/2026,16/12/2026,Annually,Monthly,1200022999,Solutions Accounting,3
+212955,Fusion Tech,,ec108797-272f-4415-803b-0615088d13ad,1036190,Office 365 Business Essentials (Annual Pre-Paid),TERMINATED,07/11/2017,,07/11/2023,Annually,Annually,1200022999,Solutions Accounting,1
+212955,Fusion Tech,72564,0ca5405f-8280-48f6-a8c0-5d480e18120b,1405430,Power BI Pro (Education Faculty Pricing) (NCE EDU MTH),ACTIVE,04/02/2025,03/03/2026,04/03/2026,Monthly,Monthly,1200154425,South Pacific College of Natural Medicine,1
+212955,Fusion Tech,,e8fa61dd-555b-4468-adc1-c39cd59827ba,1209579,Microsoft 365 Business Standard (NCE COM ANN),TERMINATED,01/07/2022,30/06/2023,01/07/2023,Annually,Annually,1200031333,Southern Alps Energy,1
+212955,Fusion Tech,,7dbd4deb-1dd5-491f-9396-6fc5d3e1572d,1209631,Microsoft 365 Business Standard (NCE COM ANN),TERMINATED,01/07/2022,,01/07/2023,Annually,Annually,1200031333,Southern Alps Energy,1
+212955,Fusion Tech,SOUTHERNALPSENERGY,b7459a9c-5a61-41ed-9416-cb46e8706193,1052950,Office 365 Business Premium (Annual Pre-Paid),TERMINATED,23/07/2018,,23/07/2022,Annually,Annually,1200031333,Southern Alps Energy,1
+212955,Fusion Tech,,6a4ce419-ccfa-4f62-9d33-54f1f738903a,1145067,Microsoft 365 Business Standard (CSP COM 1YR ANN),TERMINATED,10/05/2021,,10/05/2024,Annually,Annually,1200015205,Stems From Home,7
+212955,Fusion Tech,,85087def-0f0f-419b-9739-54b46a689a01,1353087,Microsoft 365 Business Standard (NCE COM ANN),ACTIVE,06/05/2024,,05/05/2026,Annually,Annually,1200015205,Stems From Home,7
+212955,Fusion Tech,,56fcb431-9900-4567-987b-f577ac30a54f,1045953,Office 365 Business (Annual Pre-Paid),TERMINATED,03/05/2018,,03/05/2021,Annually,Annually,1200015205,Stems From Home,1
+212955,Fusion Tech,,28683186-88b1-405d-bc52-ffd342f5fd49,1022577,Exchange Online (Plan 1) (Annual Pre-Paid),TERMINATED,19/03/2017,,19/03/2023,Annually,Annually,1200015205,Stems From Home,1
+212955,Fusion Tech,,73cdfc7c-89ad-4409-922d-bd04bec247b7,1039075,Exchange Online (Plan 1) (Monthly Pre-Paid),TERMINATED,09/01/2018,,09/01/2019,Annually,Monthly,1200015478,Super Turf,1
+212955,Fusion Tech,,9c1bd9d4-af0d-4b76-b209-9fb221571f10,1023062,Office 365 Business Premium (Monthly Pre-Paid),TERMINATED,28/03/2017,26/03/2018,28/03/2018,Annually,Monthly,1200015478,Super Turf,0
+212955,Fusion Tech,,51d908d9-8a56-4051-935c-6e4a89c9000a,1023061,Office 365 Business Essentials (Monthly Pre-Paid),TERMINATED,28/03/2017,26/03/2018,28/03/2018,Annually,Monthly,1200015478,Super Turf,10
+212955,Fusion Tech,,53840052-5ccc-48ec-9189-800052258384,1035334,Office 365 Business Premium (Monthly Pre-Paid),TERMINATED,25/10/2017,,25/10/2018,Annually,Monthly,1200015478,Super Turf,0
+212955,Fusion Tech,,99b58c4d-5856-482b-87dc-e59071f9b677,1035333,Office 365 Business Essentials (Monthly Pre-Paid),TERMINATED,25/10/2017,,25/10/2018,Annually,Monthly,1200015478,Super Turf,10
+212955,Fusion Tech,TTT211104,284e96c6-33fd-4636-91f9-d3b2a300e623,1392755,Microsoft 365 Business Standard (no Teams) (NCE COM MTH),ACTIVE,20/11/2024,19/02/2026,20/02/2026,Monthly,Monthly,1200034882,TTT Products,8
+212955,Fusion Tech,,d7c70094-ea8c-459b-985d-79f5a0dd93d2,1060238,Office 365 Business Essentials (Monthly Pre-Paid),TERMINATED,12/11/2018,,12/11/2024,Annually,Monthly,1200034882,TTT Products,4
+212955,Fusion Tech,,bb8fa1df-1dcb-49f6-86fb-492661b2a3c8,1060570,Office 365 Business Premium (Monthly Pre-Paid),TERMINATED,16/11/2018,,16/11/2024,Annually,Monthly,1200034882,TTT Products,9
+212955,Fusion Tech,,92b78834-da0d-4bd6-bb02-6da37b3b7e81,1086161,Office 365 Business Premium (Monthly Pre-Paid),TERMINATED,30/10/2019,28/10/2020,30/10/2020,Annually,Monthly,1200046467,Takanani Surger,4
+212955,Fusion Tech,,9871a5d0-4190-437e-8383-8235cd4b0a52,1282798,Azure Active Directory Premium P2 (NCE COM MTH),ACTIVE,20/06/2023,,20/06/2026,Annually,Monthly,1200013411,The Advice Group,1
+212955,Fusion Tech,72750,25001c92-ee6e-4312-9dc4-5f4ea5d3370b,1348665,Microsoft 365 Business Standard (NCE COM MTH),ACTIVE,10/04/2024,,09/04/2026,Annually,Monthly,1200013411,The Advice Group,7
+212955,Fusion Tech,,415665c6-51af-440b-a460-b5faf3c8c22a,1331882,Microsoft 365 Business Basic (NCE COM MTH),ACTIVE,12/02/2024,11/02/2026,12/02/2026,Annually,Monthly,1200013411,The Advice Group,5
+212955,Fusion Tech,,07b38681-832b-4988-a7f2-f8498aa3c071,1022180,Office 365 Business Essentials (Monthly Pre-Paid),TERMINATED,12/03/2017,10/03/2024,12/03/2024,Annually,Monthly,1200013411,The Advice Group,5
+212955,Fusion Tech,,26c8f93e-5de3-4dda-be04-364d79a428c1,1019795,Dropbox Business: Standard (Annual/Monthly Billed),ACTIVE,25/01/2017,24/01/2027,25/01/2027,Annually,Monthly,1200013411,The Advice Group,10
+212955,Fusion Tech,,92972140-4228-46f1-a157-c77a9001c709,1025150,Office 365 Business Premium (Monthly Pre-Paid),TERMINATED,09/05/2017,07/05/2024,09/05/2024,Annually,Monthly,1200013411,The Advice Group,6
+212955,Fusion Tech,TPS-GEOFF,0a0b8947-9273-4d40-82d3-0beaf0d4404d,1406505,Microsoft 365 Business Standard Trial (NCE COM MTH),TERMINATED,11/02/2025,,11/03/2025,Monthly,Monthly,1200154907,The Pokeno Storehouse Charitable Trust,25
+212955,Fusion Tech,73064,ec8498b1-1f48-4e45-bcf9-8c239dd90eab,1455551,Microsoft 365 Business Standard (NCE COM ANN),ACTIVE,09/11/2025,,09/11/2026,Annually,Annually,1200154907,The Pokeno Storehouse Charitable Trust,1
+212955,Fusion Tech,,4ee103fe-c6a7-4192-b44f-5cf37e9acb22,1107624,Exchange Online (Plan 1) (Monthly Pre-Paid),TERMINATED,28/06/2020,,28/06/2021,Annually,Monthly,1200055946,The Powder Coaters,4
+212955,Fusion Tech,,e1064dfb-af15-4a5c-a007-98298bdd8649,1139623,Microsoft 365 Business Standard (CSP COM 1YR ANN),TERMINATED,15/03/2021,,15/03/2023,Annually,Annually,1200055946,The Powder Coaters,1
+212955,Fusion Tech,73058,676bfa66-1a3e-4431-bedf-33f8192c705d,1454994,Microsoft 365 Business Basic (NCE COM ANN),ACTIVE,05/11/2025,,05/11/2026,Annually,Annually,1200088351,Tomahawk Facilities,2
+212955,Fusion Tech,,bce25b72-ee17-4ee2-916e-49892e5d4a26,1166609,Microsoft 365 Apps for business (CSP COM 1YR ANN),TERMINATED,18/11/2021,,18/11/2023,Annually,Annually,1200088351,Tomahawk Facilities,1
+212955,Fusion Tech,,a6f16b24-6fb8-46d9-8880-488859cd5e29,1160799,Microsoft 365 Business Basic (CSP COM 1YR ANN),TERMINATED,28/09/2021,,28/09/2024,Annually,Annually,1200088351,Tomahawk Facilities,2
+212955,Fusion Tech,,c256b16b-1bee-4a46-8353-0677f9ddb6c9,1159301,Microsoft 365 Business Standard Trial (CSP COM 1MO MTH),TERMINATED,14/09/2021,,14/10/2021,Monthly,Monthly,1200088351,Tomahawk Facilities,25
+212955,Fusion Tech,,e4da6de0-801b-4ce8-ae9d-b1684581082b,1384029,Microsoft 365 Business Basic (NCE COM ANN),TERMINATED,03/10/2024,,03/10/2025,Annually,Annually,1200088351,Tomahawk Facilities,2
+212955,Fusion Tech,,d1ef80f8-169b-4a6f-b512-44ac88ea6d58,1272786,Microsoft 365 Business Standard (NCE COM ANN),TERMINATED,10/05/2023,09/05/2024,10/05/2024,Annually,Annually,1200016488,Trinity Kindy,1
+212955,Fusion Tech,,785a2c22-8dd6-4727-9d72-d5fd136f2ce0,1157633,Microsoft 365 Business Basic (CSP COM 1YR ANN),TERMINATED,30/08/2021,,30/08/2024,Annually,Annually,1200016488,Trinity Kindy,1
+212955,Fusion Tech,,5e3e9cb5-4990-4ebe-bd51-0a1604ac9c8b,1046305,Office 365 Business (Annual Pre-Paid),TERMINATED,10/05/2018,,10/05/2024,Annually,Annually,1200016488,Trinity Kindy,1
+212955,Fusion Tech,,ea37bfd7-b54a-4246-93eb-68344187a6e5,1024759,Office 365 Business Essentials (Annual Pre-Paid),TERMINATED,01/05/2017,,01/05/2021,Annually,Annually,1200016488,Trinity Kindy,1
+212955,Fusion Tech,,ca7dde56-5b0b-4dd2-bfaf-23541fd84c64,1336213,Microsoft 365 Business Standard Trial (NCE COM MTH),TERMINATED,04/03/2024,,04/04/2024,Monthly,Monthly,1200126109,Unclamp,25
+212955,Fusion Tech,,7b452066-c002-4179-a3dd-96b70525b2d3,1088529,Dropbox Biz: Standard - 3 licenses included (Annual/Monthly),TERMINATED,27/11/2019,,27/11/2023,Annually,Monthly,1200047300,Undertow Media,19
+212955,Fusion Tech,,d76a1695-d948-4def-92e0-975f9b6a4335,1088221,Dropbox Biz: Standard - 3 licenses included (Monthly),TERMINATED,24/11/2019,23/12/2019,24/12/2019,30 DAYS,Monthly,1200047300,Undertow Media,18
+212955,Fusion Tech,,d8e7921f-81f6-4562-84f5-c864303e9143,1181308,Power BI Pro (NCE COM MTH),TERMINATED,23/02/2022,22/03/2022,23/03/2022,Monthly,Monthly,1200016086,Versatile,1
+212955,Fusion Tech,,d892b3c2-837f-4355-82ee-116f38de16af,1338965,Microsoft 365 Apps for business (NCE COM MTH),TERMINATED,19/03/2024,,19/03/2025,Monthly,Monthly,1200016086,Versatile,3
+212955,Fusion Tech,,fb583b5f-1b8f-4877-b510-69c078728243,1338967,Microsoft 365 Apps for business (NCE COM MTH),ACTIVE,19/03/2024,17/03/2026,18/03/2026,Annually,Monthly,1200016086,Versatile,8
+212955,Fusion Tech,,f9dee576-a320-4bd2-96d0-9d8789da4347,1336762,Microsoft 365 Apps for business (NCE COM ANN),TERMINATED,06/03/2024,,06/03/2025,Annually,Annually,1200016086,Versatile,1
+212955,Fusion Tech,,ed0b589e-d4e4-41da-8c0c-35efb26a8744,1024060,Dropbox Business: Standard (Monthly),ACTIVE,13/04/2017,12/04/2026,13/04/2026,Annually,Monthly,1200016086,Versatile,10
+212955,Fusion Tech,,16298748-5ee7-4922-84ad-19be366b0881,1038351,Office 365 Business (Annual Pre-Paid),TERMINATED,15/12/2017,,15/12/2023,Annually,Annually,1200016086,Versatile,2
+212955,Fusion Tech,,56367214-8570-4095-be62-ddc4fd9d7fae,1149501,Microsoft 365 Apps for business (CSP COM 1YR MTH),TERMINATED,22/06/2021,,22/06/2024,Annually,Monthly,1200033157,Versatile Manukau,3
+212955,Fusion Tech,,0ddefa1d-8b0a-49c7-b696-fbaa99d90004,1246191,Microsoft 365 Apps for business (NCE COM MTH),ACTIVE,16/01/2023,,16/01/2027,Annually,Monthly,1200033157,Versatile Manukau,6
+212955,Fusion Tech,,f7c575e0-8840-46fb-8286-597125b64679,1056655,Dropbox Business: Standard (Annual/Monthly Billed),ACTIVE,17/09/2018,16/09/2026,17/09/2026,Annually,Monthly,1200033157,Versatile Manukau,12
+212955,Fusion Tech,,629913c7-7c57-4330-ab77-123e33d8c674,1017827,Exchange Online (Plan 1) (Annual Pre-Paid),TERMINATED,05/12/2016,,05/12/2018,Annually,Annually,1200011772,Viva Property Management Limited,1
+212955,Fusion Tech,72690,8265649c-671b-41e4-a0a1-b443f006fe5d,1422795,Microsoft 365 Business Standard (NCE COM ANN),ACTIVE,07/05/2025,,07/05/2026,Annually,Annually,1200011772,Viva Property Management Limited,1
+212955,Fusion Tech,72690,ce1c4cba-39be-4f1c-97e7-db36a6d2a01b,1422794,Microsoft 365 Business Basic (no Teams) (NCE COM ANN),ACTIVE,07/05/2025,,07/05/2026,Annually,Annually,1200011772,Viva Property Management Limited,1
+212955,Fusion Tech,,8e390d52-62d6-4b59-9bde-315c464e2f9f,1049283,Office 365 Business Essentials (Annual Pre-Paid),TERMINATED,11/06/2018,,11/06/2024,Annually,Annually,1200011772,Viva Property Management Limited,1
+212955,Fusion Tech,,699632e6-bed2-4eb8-a81d-d977081f76fc,1026968,Office 365 Business Essentials (Annual Pre-Paid),TERMINATED,08/06/2017,,08/06/2018,Annually,Annually,1200011772,Viva Property Management Limited,2
+212955,Fusion Tech,,9e723681-3258-4e9c-b1ad-8b1f52bf2b1b,1026317,Office 365 Business Premium (Annual Pre-Paid),TERMINATED,27/05/2017,,27/05/2024,Annually,Annually,1200011772,Viva Property Management Limited,1
+212955,Fusion Tech,,5f316486-2db0-44a8-a6c7-c5048aef81c1,1246355,Microsoft 365 Business Standard (NCE COM ANN),TERMINATED,17/01/2023,,17/01/2024,Annually,Annually,1200060580,Vox Group,1
+212955,Fusion Tech,,9615b108-6fcb-459c-a0eb-9334deb509c2,1143372,Exchange Online (Plan 1) (CSP COM 1YR ANN),TERMINATED,22/04/2021,20/04/2022,22/04/2022,Annually,Annually,1200060580,Vox Group,1
+212955,Fusion Tech,,d94bcac5-91b4-4703-a3b8-7af3efe968d2,1145510,Exchange Online (Plan 1) (CSP COM 1YR ANN),TERMINATED,14/05/2021,,14/05/2023,Annually,Annually,1200060580,Vox Group,1
+212955,Fusion Tech,,c854f0f6-9878-48d8-b514-ef693ee2ba3a,1118162,Microsoft 365 Business Standard (Annual Pre-Paid),TERMINATED,18/09/2020,,18/09/2022,Annually,Annually,1200060580,Vox Group,1
+212955,Fusion Tech,,299fcc78-8318-485d-afb6-45f405246c24,1178974,Microsoft 365 Apps for business (NCE COM ANN),TERMINATED,23/02/2022,,23/02/2023,Annually,Annually,1200022964,West Auckland Physio,1
+212955,Fusion Tech,,c22942f0-61e7-4953-83d0-908cc1e9688d,1251088,Microsoft 365 Business Standard (NCE COM ANN),TERMINATED,09/02/2023,,09/02/2025,Annually,Annually,1200022964,West Auckland Physio,1
+212955,Fusion Tech,,027a5285-1cb5-4506-94aa-bee9ef36bed4,1337684,Microsoft 365 Business Standard (NCE COM ANN),ACTIVE,12/03/2024,,11/03/2026,Annually,Annually,1200022964,West Auckland Physio,1
+212955,Fusion Tech,,2216d887-3933-4946-9864-2fea115d3d78,1066162,Exchange Online (Plan 1) (Annual Pre-Paid),TERMINATED,08/02/2019,,08/02/2024,Annually,Annually,1200022964,West Auckland Physio,1
+212955,Fusion Tech,,a3d444a0-b239-4b87-a4ea-3ca669cd5050,1036141,Exchange Online (Plan 1) (Annual Pre-Paid),TERMINATED,07/11/2017,,07/11/2018,Annually,Annually,1200022964,West Auckland Physio,2
+212955,Fusion Tech,,d1cac1d1-60e4-4701-84d5-65aac2ac1f34,1146090,Microsoft 365 Business Basic (CSP COM 1YR ANN),TERMINATED,20/05/2021,,20/05/2024,Annually,Annually,1200083145,Wipers2U,1
+212955,Fusion Tech,72887,5b15dab8-2037-43fd-8cf1-c764738c4265,1439251,Microsoft 365 Business Standard (no Teams) Trial (NCE COM MTH),TERMINATED,06/08/2025,,06/09/2025,Monthly,Monthly,1200083145,Wipers2U,25
+212955,Fusion Tech,,a60b75e3-cfb9-4d85-ab15-aaad90ff155f,1351826,Microsoft 365 Business Standard (NCE COM ANN),ACTIVE,29/04/2024,27/04/2026,28/04/2026,Annually,Annually,1200028343,Wrapid Man,1
+212955,Fusion Tech,,690474ce-2927-456d-abf1-8273da9c2384,1045952,Office 365 Business Premium (Annual Pre-Paid),TERMINATED,03/05/2018,,03/05/2024,Annually,Annually,1200028343,Wrapid Man,2
+212955,Fusion Tech,,5968ffc0-33cf-41b8-b389-e4ca2564b897,1091133,Exchange Online (Plan 1) (Annual Pre-Paid),TERMINATED,07/01/2020,,07/01/2022,Annually,Annually,1200048529,Wyk,3
+212955,Fusion Tech,,ea593f25-02d4-445e-b708-b8010f9c05a7,1295970,Microsoft 365 Business Standard Trial (NCE COM MTH),TERMINATED,08/08/2023,,08/09/2023,Monthly,Monthly,1200118091,XXX Do Not Use,25
+212955,Fusion Tech,,6d0dbdb2-36e7-44e3-8598-beece1eed890,1024058,Dropbox Business: Standard (Monthly),TERMINATED,13/04/2017,12/04/2018,13/04/2018,Annually,Monthly,1200016059,ZZZ Versatile,4
+212955,Fusion Tech,,6e7e89d7-c04e-4584-9838-2e53ea068c9f,1024020,Dropbox Business: Standard (Monthly),TERMINATED,13/04/2017,12/04/2018,13/04/2018,Annually,Monthly,1200016059,ZZZ Versatile,4
+212955,Fusion Tech,,1a41e685-f49c-497a-9107-d4e5b67489c5,1109432,Microsoft 365 Business Basic (Monthly Pre-Paid),TERMINATED,15/07/2020,13/07/2021,15/07/2021,Annually,Monthly,1200056669,ZZZ Vox Do Not Use,1
+212955,Fusion Tech,,124a846c-7fb0-4a64-bddc-ecabe2416b74,1055874,Office 365 Business (Annual Pre-Paid),TERMINATED,05/09/2018,,05/09/2020,Annually,Annually,1200032774,ZZZLenco sport,1
