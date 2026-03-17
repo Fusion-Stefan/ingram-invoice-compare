@@ -38,24 +38,29 @@ server <- function(input, output, session) {
     
     out_path <- paste0("Ingram_invoice_", format.POSIXct(Sys.time(), format = "%d.%m.%Y_%H:%M:%S"), ".xlsx")
     
-    excel_file <- generate_xlsx(
-      old_path = input$filePrevious$datapath,
-      new_path = input$fileCurrent$datapath,
-      sub_path = input$fileSubscriptions$datapath
-    )
-    
-    showNotification("File successfully created. Click 'Download' to download.", type = "message")
-    
-    output$dlFile <- downloadHandler(
-      filename = function() {
-        out_path
-      },
-      content =  function(file) {
-        wb_save(excel_file, file)
-      }
-    )
+    tryCatch({
+      excel_file <- generate_xlsx(
+        old_path = input$filePrevious$datapath,
+        new_path = input$fileCurrent$datapath,
+        sub_path = input$fileSubscriptions$datapath
+      )
+      showNotification("File successfully created. Click 'Download' to download.", type = "message")
+      output$dlFile <- downloadHandler(
+        filename = function() {
+          out_path
+        },
+        content =  function(file) {
+          wb_save(excel_file, file)
+        }
+      )
+    }, error = function(e) {
+        showNotification(paste0("An Error has occured: ", 
+                                conditionMessage(e), 
+                                "\nPlease ensure uploaded files are correct."),
+                         type = "error")
+        
+    })
   })
-  
   
 }
 
