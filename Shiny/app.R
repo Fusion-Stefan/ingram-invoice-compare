@@ -8,6 +8,8 @@ source("./Scripts/write_excel.R")
 # import settings
 source("./Scripts/settings.R")
 
+INSTRUCTIONS <- paste(readLines("instructions.txt"), collapse = "\n")
+
 ui <- fluidPage(
   titlePanel("Compare Ingram Subscriptions"),
   fileInput("filePrevious",
@@ -30,7 +32,7 @@ ui <- fluidPage(
 server <- function(input, output, session) {
   setwd("..")
   
-  output$instructions <- renderText(paste(readLines("instructions.txt"), collapse = "\n"))
+  output$instructions <- renderText(INSTRUCTIONS)
   
   observeEvent(input$btnGenerate, {
     
