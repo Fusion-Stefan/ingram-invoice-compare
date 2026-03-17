@@ -22,13 +22,15 @@ ui <- fluidPage(
                  label = "Generate"),
     downloadButton("dlFile", 
                    label = "Download")
-  )
+  ),
+  verbatimTextOutput("instructions")
   
 )
 
 server <- function(input, output, session) {
   setwd("..")
   
+  output$instructions <- renderText(paste(readLines("instructions.txt"), collapse = "\n"))
   
   observeEvent(input$btnGenerate, {
     

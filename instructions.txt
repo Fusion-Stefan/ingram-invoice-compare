@@ -1,0 +1,20 @@
+Step 1: Add current and previous invoice .csv data
+- To download invoice data:
+	1) Go to Ingram -> My business -> Invoices page
+	2) Look for files with names like "2026SINZ0003211" (Note the INZ)
+	3) Make sure you have the correct files. This app will highlight the differences assuming "previous" is first chronologically.
+	4) Click download next to invoice number
+	5) Select template "Invoice_Compare_Data" and click "Customize Report"
+	6) Make sure all boxes under Available Data is selected and click "Save template and execute"
+	7) Select "CSV (.csv)" and click "Save and Execute"
+	8) On Reports page wait for report to be prepared (reload page as necessary) and click "Download"
+		- Note that the downloaded file is compressed - please only upload the uncompressed .csv file
+
+Step 2: Add subscription .csv data
+- To download subscription data:
+	1) Go to Ingram -> My business -> Subscriptions page
+	2) Click export near the top right of the page
+		
+
+Step 3: Click "Generate" and "Download" after it is done
+		
